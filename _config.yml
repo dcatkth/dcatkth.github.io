@@ -1,8 +1,8 @@
 # Site settings
-title: Data Intensive Computing Platforms
+title: DC@KTH
 #email: payberah@kth.se
 description: > # this means to ignore newlines until "baseurl:"
-  KTH Royal Institute of Technology
+#  KTH - EIT
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://mrlucasch.github.io" # the base hostname & protocol for your site
 #twitter_username: lucasch
