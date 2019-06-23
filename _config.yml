@@ -21,3 +21,5 @@ excerpt_separator: "<!--more-->"
 # google_site_verification: ""
 # bing_webmastertools_id: ""
 google_analytics: UA-97213046-2
+
+theme: jekyll-theme-leap-day
