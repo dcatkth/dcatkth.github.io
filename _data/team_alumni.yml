@@ -112,17 +112,17 @@
   email: Software Engineer at Microsoft
   web: <a href="https://www.linkedin.com/in/ruma-paul-453a4130/">Webpage</a>
 
-- name: Sameh El-Ansary
-  photo: sameh.jpg
-  info: PhD in 2005
-  email: CEO of Novelar
-  web: <a href="https://www.linkedin.com/in/sameh-el-ansary-82ba1/">Webpage</a>
-
 - name: Salam Niazi
   photo: salman.jpg
   info: PhD in 2018
   email: Researcher at Logical CLocks
   web: <a href="https://www.linkedin.com/in/salman-niazi/">Webpage</a>
+
+- name: Sameh El-Ansary
+  photo: sameh.jpg
+  info: PhD in 2005
+  email: CEO of Novelar
+  web: <a href="https://www.linkedin.com/in/sameh-el-ansary-82ba1/">Webpage</a>
 
 - name: Tallat Mahmood Shafaat
   photo: tallat.jpg
