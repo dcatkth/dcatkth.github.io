@@ -94,11 +94,11 @@
   email: CTO at Ryoulive Inc.
   web: <a href="https://www.linkedin.com/in/rauljim/">Webpage</a>
 
-- name: Ruma Paul
-  photo: no.jpg
-  info: PhD in 2013
-  email: Software Engineer at Microsoft
-  web: <a href="https://www.linkedin.com/in/ruma-paul-453a4130/">Webpage</a>
+- name: Roberto Lozano
+  photo: robertoc.jpg
+  info: PhD in 2018
+  email: Researcher at RISE
+  web: <a href="https://www.linkedin.com/in/robcasloz/">Webpage</a>
 
 - name: Roberto Roverso
   photo: roberto.jpg
@@ -106,23 +106,23 @@
   email: Engineering Lead at Zalando
   web: <a href="https://www.linkedin.com/in/roberto-roverso-4796223/">Webpage</a>
 
-- name: Roberto Lozano
-  photo: robertoc.jpg
-  info: PhD in 2018
-  email: Researcher at RISE
-  web: <a href="https://www.linkedin.com/in/robcasloz/">Webpage</a>
-
-- name: Salam Niazi
-  photo: salman.jpg
-  info: PhD in 2018
-  email: Researcher at Logical CLocks
-  web: <a href="https://www.linkedin.com/in/salman-niazi/">Webpage</a>
+- name: Ruma Paul
+  photo: no.jpg
+  info: PhD in 2013
+  email: Software Engineer at Microsoft
+  web: <a href="https://www.linkedin.com/in/ruma-paul-453a4130/">Webpage</a>
 
 - name: Sameh El-Ansary
   photo: sameh.jpg
   info: PhD in 2005
   email: CEO of Novelar
   web: <a href="https://www.linkedin.com/in/sameh-el-ansary-82ba1/">Webpage</a>
+
+- name: Salam Niazi
+  photo: salman.jpg
+  info: PhD in 2018
+  email: Researcher at Logical CLocks
+  web: <a href="https://www.linkedin.com/in/salman-niazi/">Webpage</a>
 
 - name: Tallat Mahmood Shafaat
   photo: tallat.jpg
