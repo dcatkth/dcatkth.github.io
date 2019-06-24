@@ -1,0 +1,43 @@
+- name: Seif Haridi
+  photo: seif.jpg
+  info: Professor
+  email: haridi@kth.se
+  web: <a href="https://www.kth.se/profile/haridi/">Webpage</a>
+
+- name: Vladimir Vlassov
+  photo: vlad.jpg
+  info: Professor
+  email: vladv@kth.se
+  web: <a href="https://people.kth.se/~vladv/">Webpage</a>
+
+- name: Christian Schulte
+  photo: christian.jpg
+  info: Professor
+  email: cschulte@kth.se
+  web: <a href="https://chschulte.github.io/">Webpage</a>
+
+- name: Jim Dowling
+  photo: jim.jpg
+  info: Associate Professor
+  email: jdowling@kth.se
+  web: <a href="https://www.kth.se/profile/jdowling/">Webpage</a>
+
+- name: Sarunas Girdzijauskas
+  photo: sarunas.jpg
+  info: Associate Professor
+  email: sarunasg@kth.se
+  web: <a href="https://www.sics.se/~seif/">Webpage</a>
+
+- name: Amir H. Payberah
+  photo: amir.jpg
+  info: Assistant Professor
+  email: payberah@kth.se
+  web: <a href="https://payberah.github.io/">Webpage</a>
+
+- name: Parid Carbone
+  photo: paris.jpg
+  info: Senior Researcher
+  email: paris.carbone@ri.se
+  web: <a href="https://www.ri.se/en/paris-carbone">Webpage</a>
+
+

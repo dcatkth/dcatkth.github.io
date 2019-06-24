@@ -7,7 +7,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li><strong>{{ site.title }}</strong></li>
+          <li><strong>{{ site.description }}</strong></li>
 
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
@@ -46,10 +46,6 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-         <p class="text">
-{{ site.description }} 
-      </div>
     </div>
 
   </div>
