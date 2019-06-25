@@ -10,6 +10,8 @@ permalink: /publication/
 ## 2019
 * Hooman Peiro Sajjad, Andrew Docherty, and Yuriy Tyshetskiy, [Efficient Representation Learning Using Random Walks for Dynamic Graphs](/papers/1901.01346.pdf), arXiv
 
+* Kamal Hakimzadeh, and Jim Dowling, [Karamel: A System for Timely Provisioning Large-Scale Software Across IaaS Clouds](/papers/PID5955315.pdf), IEEE Cloud (CLOUD)
+
 * Kamal Hakimzadeh, and Jim Dowling, [Ops-Scale: Elastic Cloud Operations by Declarative Functional Abstraction and Feedback Control Loop](/papers/paper___ops_scale__saso_19.pdf), IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO)
 
 * Lars Kroll, Klas Segeljakt, Paris Carbone, Christian Schulte, and Seif Haridi, [Arc: An IR for Batch and Stream Programming](/papers/Arc_DBPL_2019.pdf), ACM SIGPLAN International Symposium on Database Programming Languages (DBPL)
