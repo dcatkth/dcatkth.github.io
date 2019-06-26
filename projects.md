@@ -29,7 +29,7 @@ The Continuous Deep Analytics (CDA) project aims to shape the next-generation so
 </p>
 
 <br>
-#### **[ExtreamEarth](http://earthanalytics.eu) (H2020, 2019-2021)**
+#### **[ExtremeEarth](http://earthanalytics.eu) (H2020, 2019-2021)**
 <p align="justify">
 ExtremeEarth concentrates on developing techniques and software that will enable the extraction of information and knowledge from big Copernicus data using deep learning techniques and extreme geospatial analytics, and the development of two use cases based on this information and knowledge and other relevant non-EO data sets. ExtremeEarth will impact developments in the Integrated Ground Segment of Copernicus and the Sentinel Collaborative Ground Segment. ExtremeEarth tools and techniques can be used for extracting information and knowledge from big Copernicus data and making this information and knowledge available as linked data and, in this way, allow the easy development of applications by developers with minimal or no knowledge of EO techniques, file formats, data access protocols etc.
 </p>
@@ -65,7 +65,7 @@ and (v) to develop a multi-faceted, effective dissemination of Streamline result
 </p>
 
 <br>
-#### **[iSocail](http://isocial-itn.eu) (FP7 Marie Curie ITN, 2013-2017)**
+#### **[iSocial](http://isocial-itn.eu) (FP7 Marie Curie ITN, 2013-2017)**
 <p align="justify">
 The rapid proliferation of Online Social Networking (OSN) sites is expected to reshape the Internet’s structure, design, and utility. We believe that OSNs create a potentially transformational change in consumer behavior and will bring a far-reaching impact on traditional industries of content, media, and communications.
 The iSocial ITN aspires to bring a transformational change in OSN provision, pushing the state-of-the-art from centralized services towards totally decentralized systems that will pervade our environment and seamlessly integrate with future Internet and media services. OSN decentralization can address privacy considerations and improve service scalability, performance and fault-tolerance in the presence of an expanding base of users and applications. The project will pursue the vision of a decentralized Ubiquitous Social Networking Layer and the development of a novel distributed computing substrate that provides Decentralized Online Social Networking (DOSN) services and supports the seamless development and deployment of new social applications and services, in the absence of central management and control.
