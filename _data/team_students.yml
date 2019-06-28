@@ -40,6 +40,12 @@
   email: lkroll@kth.se
   web: <a href="https://www.kth.se/profile/lkroll">Webpage</a>
 
+- name: Lodovico Giaretta
+  photo: lodovico.jpg
+  info: PhD Student
+  email: lodovico@kth.se
+  web: <a href="https://www.linkedin.com/in/lodovico-giaretta-521919a7/">Webpage</a>
+
 - name: Mahmoud Ismail
   photo: mahmoud.jpg
   info: PhD Student
@@ -58,11 +64,23 @@
   email: sanaim@kth.se
   web: <a href="https://www.linkedin.com/in/sana-imtiaz-ce/">Webpage</a>
 
+- name: Sina Sheikholeslami
+  photo: sina.jpg
+  info: PhD Student
+  email: sinash@kth.se
+  web: <a href="https://ssheikholeslami.github.io/">Webpage</a>
+
 - name: Stefanos Antaris
   photo: stefanos.jpg
   info: PhD Student
   email: antaris@kth.se
   web: <a href="https://www.kth.se/profile/antaris/">Webpage</a>
+
+- name: Susanna Pozzoli
+  photo: susanna.jpg
+  info: PhD Student
+  email: spozzoli@kth.se
+  web: <a href="https://www.linkedin.com/in/susannapozzoli/">Webpage</a>
 
 - name: Zainab Abbas
   photo: zainab.jpg
