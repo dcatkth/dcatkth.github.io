@@ -28,7 +28,6 @@ permalink: /publication/
 
 * Paris Carbone, Asterios Katsifodimos, and Seif Haridi, [Stream Window Aggregation Semantics and Optimization](/papers/window-semantics-encyclopediaBigDAta18.pdf), Encyclopedia of Big Data Technologies
 
-* Shelan Perera, Ashansa Perera, and Kamal Hakimzadeh, [Reproducible Experiments for Comparing Apache Flink and Apache Spark on Public Clouds](/papers/1610.04493.pdf), arXiv
 <br>
 
 ## 2018
@@ -114,6 +113,8 @@ permalink: /publication/
 * Ruma Paul, Jérémie Melchior, Peter Van Roy, and Vladimir Vlassov, [Designing Distributed Applications Using a Phase-Aware, Reversible System](/papers/08029257.pdf), IEEE International Conference on Edge Computing (EDGE)
 
 * Salman Niazi, Mahmoud Ismail, Seif Haridi, Jim Dowling, Steffen Grohsschmiedt, and Mikael Ronström, [Hopsfs: Scaling Hierarchical File System Metadata using NewSQL Databases](/papers/fast17-niazi.pdf), USENIX Conference on File and Storage Technologies (FAST)
+
+* Shelan Perera, Ashansa Perera, and Kamal Hakimzadeh, [Reproducible Experiments for Comparing Apache Flink and Apache Spark on Public Clouds](/papers/1610.04493.pdf), arXiv
 
 * Sileshi Demesie Yalew, Gerald Q Maguire, Seif Haridi, and Miguel Correia, [Hail to the Thief: Protecting data from mobile ransomware with ransomsafedroid](/papers/08171377.pdf), IEEE International Symposium on Network Computing and Applications (NCA)
 
