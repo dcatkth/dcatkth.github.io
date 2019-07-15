@@ -18,7 +18,7 @@ permalink: /publication/
 
 * Leila Bahri, and Sarunas Girdzijauskas, [Trust Mends Blockchains: Living up to Expectations](/papers/trust2019.pdf), IEEE International Conference on Distributed Computing Systems (ICDCS)
 
-* Mahmoud Ismail, Salman Niazi, Seif Haridi, and Jim Dowling, Scalable Block Reporting for HopsFS, IEEE International Congress on Big Data (BigData Congress) [<font color="red"><b>Best Paper Award</b></font>]
+* Mahmoud Ismail, Salman Niazi, Seif Haridi, and Jim Dowling, [Scalable Block Reporting for HopsFS](/papers/BIG_REG_55.pdf), IEEE International Congress on Big Data (BigData Congress) [<font color="red"><b>Best Paper Award</b></font>]
 
 * Manolis Koubarakis et al., [From Copernicus Big Data to Extreme Earth Analytics](/papers/EDBT19_paper_321.pdf), Open Proceedings
 
