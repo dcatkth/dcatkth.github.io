@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<center><img src="/images/research.jpg" width="1000" height="200" align="center"></center>
+<center><img src="/images/tech.png" width="1000" height="200" align="center"></center>
 
 <br>
 * Distributed Systems and Algorithms

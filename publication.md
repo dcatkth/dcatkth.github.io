@@ -18,12 +18,15 @@ permalink: /publication/
 
 * Leila Bahri, and Sarunas Girdzijauskas, [Trust Mends Blockchains: Living up to Expectations](/papers/trust2019.pdf), IEEE International Conference on Distributed Computing Systems (ICDCS)
 
+* Mahmoud Ismail, Salman Niazi, Seif Haridi, and Jim Dowling, Scalable Block Reporting for HopsFS, IEEE International Congress on Big Data (BigData Congress) [<font color="red"><b>Best Paper Award</b></font>]
+
 * Manolis Koubarakis et al., [From Copernicus Big Data to Extreme Earth Analytics](/papers/EDBT19_paper_321.pdf), Open Proceedings
 
 * Paolo Trunfio, and Vladimir Vlassov, [Clouds for Scalable Big Data Processing](/papers/Clouds for scalable Big Data processing.pdf), International Journal of Parallel, Emergent and Distributed Systems
 
 * Paris Carbone, Asterios Katsifodimos, and Seif Haridi, [Stream Window Aggregation Semantics and Optimization](/papers/window-semantics-encyclopediaBigDAta18.pdf), Encyclopedia of Big Data Technologies
 
+* Shelan Perera, Ashansa Perera, and Kamal Hakimzadeh, [Reproducible Experiments for Comparing Apache Flink and Apache Spark on Public Clouds](/papers/1610.04493.pdf), arXiv
 <br>
 
 ## 2018
