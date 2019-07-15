@@ -20,6 +20,8 @@ permalink: /publication/
 
 * Mahmoud Ismail, August Bonds, Salman Niazi, Seif Haridi, and Jim Dowling, [Scalable Block Reporting for HopsFS](/papers/BIG_REG_55.pdf), IEEE International Congress on Big Data (BigData Congress) [<font color="red"><b>Best Paper Award</b></font>]
 
+* Mahmoud Ismail, Mikael Ronström, Seif Haridi, and Jim Dowling, [ePipe: Near Real-Time Polyglot Persistence of HopsFS Metadata](/papers/epipe.pdf), IEEE/ACM International Symposium on Cluster, Cloud and Grid (CCGRID)
+
 * Manolis Koubarakis et al., [From Copernicus Big Data to Extreme Earth Analytics](/papers/EDBT19_paper_321.pdf), Open Proceedings
 
 * Paolo Trunfio, and Vladimir Vlassov, [Clouds for Scalable Big Data Processing](/papers/Clouds for scalable Big Data processing.pdf), International Journal of Parallel, Emergent and Distributed Systems
