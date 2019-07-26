@@ -120,7 +120,7 @@ permalink: /team/
 
 <br><br>
 
-## Postdocs and PhD Students
+## PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_students %}
