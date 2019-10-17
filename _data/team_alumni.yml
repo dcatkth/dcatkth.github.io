@@ -76,17 +76,17 @@
   email: CTO & Co-founder at Hedvig
   web: <a href="https://www.linkedin.com/in/johnardelius/">Webpage</a>
 
-- name: Muhammad Anis Nasir
-  photo: anis.jpg
-  info: PhD in 2018
-  email: Streaming Developer at King
-  web: <a href="https://www.linkedin.com/in/anis-nasir-01a5ba1a/">Webpage</a>
-
 - name: Leila Bahri
   photo: leila.jpg
   info: Postdoc 2017-2019
   email: Senior Researcher at Scania
   web: <a href="https://www.linkedin.com/in/leila-bahri-b66850156/">Webpage</a>
+
+- name: Muhammad Anis Nasir
+  photo: anis.jpg
+  info: PhD in 2018
+  email: Streaming Developer at King
+  web: <a href="https://www.linkedin.com/in/anis-nasir-01a5ba1a/">Webpage</a>
 
 - name: Paris Carbone
   photo: paris.jpg
@@ -165,11 +165,4 @@
   info: PhD in 2016
   email: Senior ML Engineer at Norna
   web: <a href="https://www.linkedin.com/in/ying-liu-phd-2b360a31/">Webpage</a>
-
-
-
-
-
-
-
 
