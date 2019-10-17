@@ -1,3 +1,15 @@
+- name: Ahmad Al-shishtawy
+  photo: ahmad.jpg
+  info: PhD in 2012
+  email: Senior Researcher at RISE
+  web: <a href="https://www.sics.se/~ahmad/">Webpage</a>
+
+- name: Ahsan Javed Awan
+  photo: ahsan.jpg
+  info: PhD in 2017
+  email: Senior Researcher at Ericsson
+  web: <a href="https://www.linkedin.com/in/ahsanjavedawan/?originalSubdomain=se">Webpage</a>
+
 - name: Ali Ghodsi
   photo: ali.jpg
   info: PhD in 2006
@@ -10,17 +22,11 @@
   email: Security Specialist at CEVT
   web: <a href="https://www.linkedin.com/in/aligholami/">Webpage</a>
 
-- name: Ahmad Al-shishtawy
-  photo: ahmad.jpg
-  info: PhD in 2012
-  email: Senior Researcher at RISE
-  web: <a href="https://www.sics.se/~ahmad/">Webpage</a>
-
-- name: Ahsan Javed Awan
-  photo: ahsan.jpg
-  info: PhD in 2017
-  email: Senior Researcher at Ericsson
-  web: <a href="https://www.linkedin.com/in/ahsanjavedawan/?originalSubdomain=se">Webpage</a>
+- name: Amir H. Payberah
+  photo: amir.jpg
+  info: PhD in 2013
+  email: Assistant Professor at KTH
+  web: <a href="https://payberah.github.io/">Webpage</a>
 
 - name: Amira Soliman
   photo: amira.jpg
@@ -81,6 +87,12 @@
   info: Postdoc 2017-2019
   email: Senior Researcher at Scania
   web: <a href="https://www.linkedin.com/in/leila-bahri-b66850156/">Webpage</a>
+
+- name: Paris Carbone
+  photo: paris.jpg
+  info: PhD in 2018
+  email: Senior Researcher at RISE
+  web: <a href="https://www.ri.se/en/paris-carbone">Webpage</a>
 
 - name: Per Brand
   photo: per.jpg
