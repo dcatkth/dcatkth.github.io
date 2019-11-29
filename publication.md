@@ -28,6 +28,10 @@ permalink: /publication/
 
 * Paris Carbone, Asterios Katsifodimos, and Seif Haridi, [Stream Window Aggregation Semantics and Optimization](/papers/window-semantics-encyclopediaBigDAta18.pdf), Encyclopedia of Big Data Technologies
 
+* Sana Imtiaz, Ramin Sadre, and Vladimir Vlassov, [On the Case of Privacy in the IoT Ecosystem: A Survey](/papers/08875381.pdf), IEEE International Conference on Internet of Things (iThings)
+
+* Zainab Abbas, Jon Reginbald Ivarsson, Ahmad Al-Shishtawy, and Vladimir Vlassov, Scaling Deep Learning Models for Large Spatial Time-Series Forecasting, IEEE International Conference on Big Data (BigData)
+
 <br>
 
 ## 2018

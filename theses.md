@@ -7,6 +7,7 @@ permalink: /theses/
 <center><img src="/images/thesis.jpg" width="1000" height="200" align="center"></center>
 
 <br>
+* 2019, Kambiz Ghoorchian, [Graph Algorithms for Large-Scale and Dynamic Natural Language Processing](/thesis/kambiz_thesis.pdf)
 * 2019, Theodoros Vasiloudis, [Scalable Machine Learning through Approximation and Distributed Computing](/thesis/theo_thesis.pdf)
 * 2019, Hooman Peiro Sajjad, [Methods and Algorithms for Data-Intensive Computing: Streams, Graphs, and Geo-Distribution](/thesis/hooman_thesis.pdf)
 * 2018, Paris Carbone, [Scalable and Reliable Data Stream Processing](/thesis/paris_thesis.pdf)
