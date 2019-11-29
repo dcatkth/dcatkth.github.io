@@ -16,7 +16,8 @@ permalink: /courses/
 * ID2222 [Data Mining](https://www.kth.se/student/kurser/kurs/ID2222)
 * ID2221 [Data-Intensive Computing](https://id2221kth.github.io/)
 * ID2223 [Scalable Machine Learning and Deep Learning](https://id2223kth.github.io/)
-* ID3030 [Blockchain Fundamentals - Technology and Applications](https://sites.google.com/view/bfat-kth/)
+* FID3008 [Advanced Topics in Distributed Systems](https://github.com/dcatkth/readinggroup/blob/master/README.md)
+* FID3030 [Blockchain Fundamentals - Technology and Applications](https://sites.google.com/view/bfat-kth/)
 
 <br>
 ## Online Courses
