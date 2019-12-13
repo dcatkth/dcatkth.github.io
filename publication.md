@@ -18,6 +18,8 @@ permalink: /publication/
 
 * Leila Bahri, and Sarunas Girdzijauskas, [Trust Mends Blockchains: Living up to Expectations](/papers/trust2019.pdf), IEEE International Conference on Distributed Computing Systems (ICDCS)
 
+* Lodovico Giaretta, and Sarunas Girdzijauskas, [Gossip Learning: Off the Beaten Path](/papers/Giaretta2019GossipLearning.pdf), IEEE International Conference on Big Data (BigData)
+
 * Mahmoud Ismail, August Bonds, Salman Niazi, Seif Haridi, and Jim Dowling, [Scalable Block Reporting for HopsFS](/papers/BIG_REG_55.pdf), IEEE International Congress on Big Data (BigData Congress) [<font color="red"><b>Best Paper Award</b></font>]
 
 * Mahmoud Ismail, Mikael Ronström, Seif Haridi, and Jim Dowling, [ePipe: Near Real-Time Polyglot Persistence of HopsFS Metadata](/papers/epipe.pdf), IEEE/ACM International Symposium on Cluster, Cloud and Grid (CCGRID)
