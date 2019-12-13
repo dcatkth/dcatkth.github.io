@@ -41,7 +41,7 @@ permalink: /publication/
 
 * Amira Soliman, Fatemeh Rahimian, and Sarunas Girdzijauskas, [Stad: Stateful Diffusion for Linear Time Community Detection](/papers/stad.pdf), IEEE International Conference on Distributed Computing Systems (ICDCS)
 
-* Chen Chen, Yoav Tock, and Sarunas Girdzijauskas, [BeaConvey: Co-Design of Overlay and Routing for Topic-basedPublish/Subscribe on Small-World Networks](/papers/BeaConvey.pdf), International Conference on Distributed and Event-Based Systems (DEBS)
+* Chen Chen, Yoav Tock, and Sarunas Girdzijauskas, [BeaConvey: Co-Design of Overlay and Routing for Topic-based Publish/Subscribe on Small-World Networks](/papers/BeaConvey.pdf), International Conference on Distributed and Event-Based Systems (DEBS)
 
 * Hooman Peiro Sajjad, Ying Liu, and Vladimir Vlassov, [Optimizing Windowed Aggregation over Geo-Distributed Data Streams](/papers/08473374.pdf), IEEE International Conference on Edge Computing (EDGE)
 
