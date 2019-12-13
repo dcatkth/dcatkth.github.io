@@ -57,7 +57,7 @@ permalink: /publication/
 
 * Linnea Ingmar, and Christian Schulte, [Making Compact-Table Compact](/papers/diva2:1262864.pdf), International Conference on Principles and Practice of Constraint
 
-* Mohamed-Rafik Bouguelia, Slawomir Nowaczyk, and Amir H. Payberah, [An Adaptive Algorithm for Aanomaly and Novelty Detection in Evolving Data Streams](/papers/anomaly and novelty detection.pdf), Data Mining and Knowledge Discovery
+* Mohamed-Rafik Bouguelia, Slawomir Nowaczyk, and Amir H. Payberah, [An Adaptive Algorithm for Anomaly and Novelty Detection in Evolving Data Streams](/papers/anomaly and novelty detection.pdf), Data Mining and Knowledge Discovery
 
 * Nuno Apolónia, Stefanos Antaris, Sarunas Girdzijauskas, George Pallis, and Marios Dikaiakos, [SELECT: A Distributed Publish/Subscribe Notification System for Online Social Networks](/papers/IEEE-IPDPS-2018.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
