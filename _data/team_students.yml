@@ -1,8 +1,20 @@
+- name: Ahmed Emad Samy Yossef
+  photo: ahmed.jpg
+  info: PhD Student
+  email: aesy@kth.se
+  web: <a href="https://www.kth.se/profile/aesy">Webpage</a>
+
 - name: Alexandru A. Ormenisan
   photo: alex.jpg
   info: PhD Student
   email: aaor@kth.se
   web: <a href="https://www.kth.se/profile/aaor">Webpage</a>
+
+- name: David Daharewa Gureya
+  photo: david.jpg
+  info: PhD Student
+  email: daharewa@kth.se
+  web: <a href="https://www.kth.se/profile/daharewa">Webpage</a>
 
 - name: Edward Tjörnhammar
   photo: edward.jpg
@@ -15,12 +27,6 @@
   info: PhD Student
   email: jzzeng@kth.se
   web: <a href="https://www.kth.se/profile/jzzeng/">Webpage</a>
-
-- name: Kambiz Ghoorchian
-  photo: kambiz.jpg
-  info: PhD Student
-  email: kambizgh@kth.se
-  web: <a href="https://www.kth.se/profile/ghoorian">Webpage</a>
 
 - name: Kamal Hakimzadeh
   photo: kamal.jpg
