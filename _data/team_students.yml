@@ -50,7 +50,7 @@
   photo: lodovico.jpg
   info: PhD Student
   email: lodovico@kth.se
-  web: <a href="https://www.linkedin.com/in/lodovico-giaretta-521919a7/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/lodovico">Webpage</a>
 
 - name: Mahmoud Ismail
   photo: mahmoud.jpg
@@ -74,7 +74,7 @@
   photo: sana.jpg
   info: PhD Student
   email: sanaim@kth.se
-  web: <a href="https://www.linkedin.com/in/sana-imtiaz-ce/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/sanaim">Webpage</a>
 
 - name: Sina Sheikholeslami
   photo: sina.jpg
@@ -86,19 +86,25 @@
   photo: stefanos.jpg
   info: PhD Student
   email: antaris@kth.se
-  web: <a href="https://www.kth.se/profile/antaris/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/antaris">Webpage</a>
 
 - name: Susanna Pozzoli
   photo: susanna.jpg
   info: PhD Student
   email: spozzoli@kth.se
-  web: <a href="https://www.linkedin.com/in/susannapozzoli/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/spozzoli">Webpage</a>
 
 - name: Tianze Wang
   photo: tianze.jpg
   info: PhD Student
   email: tianzew@kth.se
-  web: <a href="https://www.linkedin.com/in/tianze-wang-7177b8132/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/tianzew">Webpage</a>
+
+- name: Vangjush Komini
+  photo: vangjush.jpg
+  info: PhD Student
+  email: vangjush@kth.se
+  web: <a href="https://www.kth.se/profile/vangjush">Webpage</a>
 
 - name: Zainab Abbas
   photo: zainab.jpg
