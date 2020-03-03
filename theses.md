@@ -31,7 +31,7 @@ permalink: /theses/
 * 2013, Raul Jimenze, [Distributed Peer Discovery in Large-Scale P2P Streaming Systems](/thesis/raul_thesis.pdf)
 * 2013, Roberto Roverso, [A System, Tools and Algorithms for Adaptive HTTP-live Streaming on Peer-to-peer Overlays](/thesis/roberto_thesis.pdf)
 * 2013, John Ardelius, [On the Performance Analysis of Large Scale, Dynamic, Distributed and Parallel Systems](/thesis/john_thesis.pdf)
-* 2013, Katharina Rasch, [Smart Assistants for Smart Homes](thesis/katharina)
+* 2013, Katharina Rasch, [Smart Assistants for Smart Homes](thesis/katharina_thesis.pdf)
 * 2013, Amir H. Payberah, [Live Streaming in P2P and Hybrid P2P-Cloud Environments for the Open Internet](/thesis/amir_thesis.pdf)
 * 2013, Cosmin Arad, [Programming Model and Protocols for Reconfigurable Distributed Systems](/thesis/cosmin_thesis.pdf)
 * 2013, Tallat Shafaat, [Partition Tolerance and Data Consistency in Structured Overlay Networks](/thesis/tallat_thesis.pdf)
