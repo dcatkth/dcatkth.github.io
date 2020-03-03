@@ -7,6 +7,14 @@ permalink: /publication/
 
 <br>
 
+## 2020
+* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi, and Jim Dowling, [Implicit Provenance for Machine Learning Artifacts](/papers/provenance_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
+
+* David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlasso, [vBandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+
+* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
+
+
 ## 2019
 * Hooman Peiro Sajjad, Andrew Docherty, and Yuriy Tyshetskiy, [Efficient Representation Learning Using Random Walks for Dynamic Graphs](/papers/1901.01346.pdf), arXiv
 
@@ -32,7 +40,7 @@ permalink: /publication/
 
 * Sana Imtiaz, Ramin Sadre, and Vladimir Vlassov, [On the Case of Privacy in the IoT Ecosystem: A Survey](/papers/08875381.pdf), IEEE International Conference on Internet of Things (iThings)
 
-* Zainab Abbas, Jon Reginbald Ivarsson, Ahmad Al-Shishtawy, and Vladimir Vlassov, Scaling Deep Learning Models for Large Spatial Time-Series Forecasting, IEEE International Conference on Big Data (BigData)
+* Zainab Abbas, Jon Reginbald Ivarsson, Ahmad Al-Shishtawy, and Vladimir Vlassov, [Scaling Deep Learning Models for Large Spatial Time-Series Forecasting](/papers/09005475.pdf), IEEE International Conference on Big Data (BigData)
 
 <br>
 
