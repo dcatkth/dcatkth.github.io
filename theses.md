@@ -24,6 +24,7 @@ permalink: /theses/
 * 2017, Ahsan Javed Awan, [Performance Characterization and Optimization of In-Memory Data Analytics on a Scale-up Server](/thesis/ahsan_thesis.pdf)
 * 2016, Ruma Paul, [Building Distributed Systems for High-Stress Environments using Reversibility and Phase-Awareness](/thesis/ruma_thesis.pdf)
 * 2016, Ying Liu, [Towards Elastic High-Performance Geo-Distributed Storage in the Cloud](/thesis/ying_thesis.pdf)
+* 2016, Navaneeth Rameshan, [On the Role of Performance Interference in Consolidated Environments](/thesis/navaneeth_thesis.pdf)
 * 2016, Vasiliki Kalavri, [Performance Optimization Techniques and Tools for Distributed Graph Processing](/thesis/vasia_thesis.pdf)
 * 2016, Ali Gholami, [Security and Privacy of Sensitive Data in Cloud Computing](/thesis/alig_thesis.pdf)
 * 2014, Fatemeh Rahimian, [Gossip-Based Algorithms for Information Dissemination and Graph Clustering](/thesis/fatemeh_thesis.pdf)

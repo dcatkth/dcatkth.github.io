@@ -12,6 +12,8 @@ permalink: /publication/
 
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
+* Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf)
+
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
 <br>
@@ -207,7 +209,7 @@ permalink: /publication/
 ## 2015
 * Ahsan Javed Awan, Mats Brorsson, Vladimir Vlassov, and Eduard Ayguade, [How Data Volume Affects Spark Based Data Analytics on a Scale-Up Server](/papers/diva2:899225.pdf), BPOE
 
-* Ahsan Javed Awan, Mats Brorsson, Vladimir Vlassov, and Eduard Ayguade, [Performance Characterization of In-Memory Data Analytics on a Modern Cloud Server](/papers/diva2:922539.pdf), IEEE International Conference on Big Data and Cloud Computing
+* Ahsan Javed Awan, Mats Brorsson, Vladimir Vlassov, and Eduard Ayguade, [Performance Characterization of In-Memory Data Analytics on a Modern Cloud Server](/papers/diva2:922539.pdf), IEEE International Conference on Big Data and Cloud Computing [<font color="red"><b>Best Paper Award</b></font>]
 
 * Ali Gholami, Jim Dowling, and Erwin Laure, [A Security Framework for Population-Scale Genomics Analysis](/papers/07237028.pdf), International Conference on High Performance Computing & Simulation (HPCS)
 
@@ -267,7 +269,7 @@ permalink: /publication/
 ## 2014
 * Artur Podobas, Mats Brorsson, Vladimir Vlassov, Chi Chi Ching, and Ben Juurlink, [Considering Quality-of-Service for Resource Reduction using OpenMP](/papers/diva2:707918.pdf), Programmability Issues for Heterogeneous Multicores
 
-* Artur Podobas, Mats Brorsson, and Vladimir Vlassov, [TurboBŁYSK: Scheduling for Improved Data-Driven Task Performance with Fast Dependency Resolution](/papers/diva2:798214.pdf), International Workshop on OpenMP (IWOMP)
+* Artur Podobas, Mats Brorsson, and Vladimir Vlassov, [TurboBŁYSK: Scheduling for Improved Data-Driven Task Performance with Fast Dependency Resolution](/papers/diva2:798214.pdf), International Workshop on OpenMP (IWOMP) [<font color="red"><b>Best Paper Award</b></font>]
 
 * Fatemeh Rahimian, Amir H. Payberah, Sarunas Girdzijauskas, and Seif Haridi, [Distributed Vertex-Cut Partitioning](/papers/jabeja-vc.pdf), IFIP International Conference on Distributed Applications and Interoperable Systems (DAIS)
 
@@ -351,7 +353,7 @@ permalink: /publication/
 
 * Amir Moulavi, Ahmad Al-Shishtawy, and Vladimir Vlassov, [State-Space Feedback Control for Elastic Distributed Storage in a Cloud Environment](/papers/icas_2012_1_40_20127.pdf), International Conference on Autonomic and Autonomous Systems (ICAS) [<font color="red"><b>Best Paper Award</b></font>]
 
-* Ananya Muddukrishna, Artur Podobas, Mats Brorsson, and Vladimir Vlassov, [Task Scheduling on Manycore Processors with Home Caches](/papers/task2012.pdf), European Conference on Parallel Processing
+* Ananya Muddukrishna, Artur Podobas, Mats Brorsson, and Vladimir Vlassov, [Task Scheduling on Manycore Processors with Home Caches](/papers/task2012.pdf), European Conference on Parallel Processing [<font color="red"><b>Best Paper Award</b></font>]
 
 * Artur Podobas, Mats Brorsson, and Vladimir Vlassov, [Exploring Heterogeneous Scheduling Using the Task-Centric Programming Model](/papers/Exploring_Heterogeneous_Scheduling_Using_the_Task-.pdf), European Conference on Parallel Processing
 
