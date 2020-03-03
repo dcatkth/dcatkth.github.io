@@ -14,6 +14,7 @@ permalink: /publication/
 
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
+<br>
 
 ## 2019
 * Hooman Peiro Sajjad, Andrew Docherty, and Yuriy Tyshetskiy, [Efficient Representation Learning Using Random Walks for Dynamic Graphs](/papers/1901.01346.pdf), arXiv
