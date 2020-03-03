@@ -12,7 +12,9 @@ permalink: /publication/
 
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
-* Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf)
+* Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
+
+* Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf), Decision Support Systems
 
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
@@ -53,6 +55,8 @@ permalink: /publication/
 * Amira Soliman, Fatemeh Rahimian, and Sarunas Girdzijauskas, [Stad: Stateful Diffusion for Linear Time Community Detection](/papers/stad.pdf), IEEE International Conference on Distributed Computing Systems (ICDCS)
 
 * Chen Chen, Yoav Tock, and Sarunas Girdzijauskas, [BeaConvey: Co-Design of Overlay and Routing for Topic-based Publish/Subscribe on Small-World Networks](/papers/BeaConvey.pdf), International Conference on Distributed and Event-Based Systems (DEBS)
+
+* Fatemeh Rahimian, Gholamreza Salimi-Khorshidi, Jenny Tran, Amir H. Payberah, Roberto Ayala Solares, Francesca Raimondi, Milad Nazarzadeh, Dexter Canoy, and Kazem Rahimi, [Predicting the Risk of Emergency Hospital Admissions in the General Population: Development and Validation of Machine Learning Models in a Cohort Study Using Large-Scale Linked Electronic Health Records](/papers/risk.pdf), PLOS Medicine
 
 * Hooman Peiro Sajjad, Ying Liu, and Vladimir Vlassov, [Optimizing Windowed Aggregation over Geo-Distributed Data Streams](/papers/08473374.pdf), IEEE International Conference on Edge Computing (EDGE)
 
