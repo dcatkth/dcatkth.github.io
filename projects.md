@@ -135,7 +135,30 @@ heterogeneity, and fault tolerance.The proof of concept applications include: e-
 </p>
 
 <br>
+### **[EVERGROW, a European Research Project on the Future Internet](https://www.ercim.eu/publication/Ercim_News/enw57/hedman.html) (EU-project, 2004-2008)**
+<p align="justify">
+The goal of the project is to build the science-based foundations for the global information networks of the future. Not only will networks soon provide us with access to all the world's knowledge, but society as a whole will become network-based, from private life and business to industry and the processes of government. The demands on the future Internet will be high. We can already see how the complexity of the Internet is continually increasing, and we know a great deal about the problems this will cause. Above all, a number of today's highly manual processes must be automated, such as network management, network provisioning and network repair on all levels.
+</p>
+
+<br>
+### **[CoreGrid](http://coregrid.ercim.eu/mambo/) (EU-project, 2004-2008)**
+<p align="justify">
+The CoreGRID Network of Excellence (NoE) aims at strengthening and advancing scientific and technological excellence in the area of Grid and Peer-to-Peer technologies. To achieve this objective, the Network brings together a critical mass of well-established researchers (161 permanent researchers and 164 PhD students) from forty-one institutions who have constructed an ambitious joint programme of activities. This joint programme of activity is structured around six complementary research areas that have been selected on the basis of their strategic importance, their research challenges and the recognised European expertise to develop next generation Grid middleware.
+</p>
+
+<br>
 #### **[Peer-To-Peer-Implementation-and-TheOry (PEPITO)](https://cordis.europa.eu/project/rcn/61094/factsheet/en) (FP5 EU-project, 2002-2004)**
 <p align="justify">
 Traditional centralised system architectures are ever more inadequate. A good understanding is lacking of future decentralised peer-to-peer (P2P) models for collaboration and computing, both of how to build them robustly and of what can be built. The PEPITO project will investigate completely decentralised models of P2P computing.
 </p>
+
+<br>
+### **[Information Cities (ICITIES)](https://cordis.europa.eu/project/rcn/54507/factsheet/en) (EU-project, 2000-2003)**
+<p align="justify">
+The Information Cities project models the aggregation and segregation patterns in a virtual world of infohabitants (humans, virtual firms, on-line communities and software agents acting on their behalf).
+The objective is to capture aggregate patterns of virtual organisation, emerging from the interaction over the emerging information infrastructure, a virtual place where millions (or billions) meet of
+infohabitants meet, co-operate and trade: a stable and scalable micro-environment that supports the efficient provision of many e-commerce and personal services, and allows for the continuous creation of new
+activities and relationships. To investigate conditions of emergence and evolution of Information Cities, we will develop an open multiagent environment, flexible and adaptive to the dynamic nature of the
+Information Society.
+</p>
+
