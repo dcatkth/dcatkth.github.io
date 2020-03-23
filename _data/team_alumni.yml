@@ -34,6 +34,12 @@
   email: Researcher at RISE
   web: <a href="https://www.linkedin.com/in/amira-soliman-2a03b8102/">Webpage</a>
 
+- name: Christian Schulte
+  photo: christian.jpg
+  info: Professor at KTH
+  email: Passed away spring 2020
+  web: <a href="https://chschulte.github.io/">Webpage</a>
+
 - name: Cosmin Arad
   photo: cosmin.jpg
   info: PhD in 2013
@@ -72,9 +78,9 @@
 
 - name: Joe Armstrong
   photo: joe.jpg
-  info: PhD in 2003
-  email: Retired Adjunct Prof. at KTH
-  web: Passed away spring 2019
+  info: Retired Adjunct Professor at KTH
+  email: Passed away spring 2019
+  web: <a href="https://www.linkedin.com/in/joe-armstrong-b9233b106/?originalSubdomain=se">Webpage</a>
 
 - name: John Ardelius
   photo: john.jpg
