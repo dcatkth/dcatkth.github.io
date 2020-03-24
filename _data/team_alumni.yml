@@ -36,7 +36,7 @@
 
 - name: Christian Schulte
   photo: christian.jpg
-  info: Professor at KTH
+  info: Professor since 2002
   email: Passed away spring 2020
   web: <a href="https://chschulte.github.io/">Webpage</a>
 
@@ -78,7 +78,7 @@
 
 - name: Joe Armstrong
   photo: joe.jpg
-  info: Retired Adjunct Professor at KTH
+  info: Adjunct Professor since 2012
   email: Passed away spring 2019
   web: <a href="https://www.linkedin.com/in/joe-armstrong-b9233b106/?originalSubdomain=se">Webpage</a>
 
