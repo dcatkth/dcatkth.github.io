@@ -44,7 +44,7 @@ permalink: /team/
 
 <br><br>
 
-## Postdocs and External Visitors
+## Postdocs and Visitors
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_postdocs %}
