@@ -1,3 +1,9 @@
+- name: Paris Carbone
+  photo: paris.jpg
+  info: Senior Researcher at RISE
+  email: paris.carbone@ri.se
+  web: <a href="https://www.ri.se/en/paris-carbone">Webpage</a>
+
 - name: Zekarias Tilahun
   photo: zekaria.jpg
   info: Postdoc
