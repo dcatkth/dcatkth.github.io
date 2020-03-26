@@ -9,6 +9,7 @@ permalink: /news/
 <br>
 ## 2020
 * In memory of [Christian Schulte](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/in-memory-of-christian-schulte-1.969552), 2 March 1967 - 17 March 2020
+<br><br>
 
 ## 2019
 * CASTOR Software Days, October 14-16, 2019 [[web](https://castor-software-days-2019.github.io/)]
