@@ -1,3 +1,9 @@
+- name: Lars Kroll
+  photo: lars.jpg
+  info: Researcher at RISE
+  email: lkroll@kth.se
+  web: <a href="https://lkroll.com/?page=About">Webpage</a>
+
 - name: Paris Carbone
   photo: paris.jpg
   info: Senior Researcher at RISE
