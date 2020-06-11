@@ -10,6 +10,8 @@ permalink: /publication/
 ## 2020
 * Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi, and Jim Dowling, [Implicit Provenance for Machine Learning Artifacts](/papers/provenance_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
+* Amira Soliman, Sarunas Girdzijauskas, Mohamed-Rafik Bouguelia, Sepideh Pashami, and Slawomir Nowacz, [Decentralized and Adaptive K-Means Clustering for Non-IID Data using HyperLogLog Counters](/papers/Soliman2020DecentralizedKmeans.pdf), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
@@ -18,7 +20,13 @@ permalink: /publication/
 
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
+* Nuno Apolónia, Felix Freitag, Leandro Navarro, and Sarunas Girdzijauskas, [Socially Aware Microcloud Service Overlay Optimization in Community Networks](/papers/spe.2750.pdf), Software: Practice and Experience
+
 * Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, and Asterios Katsifodimos, [Beyond Analytics: the Evolution of Stream Processing Systems](/papers/SIGMOD-streams.pdf), ACM Special Interest Group on Management Of Data (SIGMOD)
+
+* Zekarias T. Kefato, and Sarunas Girdzijauskas, [Gossip and Attend: Context-Sensitive Graph Representation Learning](/papers/7305-Article Text-10535-1-10-20200601.pdf), International AAAI Conference on Web and Social Media (ICWSM)
+
+* Zekarias T. Kefato, and Sarunas Girdzijauskas, [Graph Neighborhood Attentive Pooling](/papers/2001.10394.pdf), arXiv
 
 <br>
 
