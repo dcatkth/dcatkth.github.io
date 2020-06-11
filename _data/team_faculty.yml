@@ -10,17 +10,17 @@
   email: vladv@kth.se
   web: <a href="https://people.kth.se/~vladv/">Webpage</a>
 
-- name: Jim Dowling
-  photo: jim.jpg
-  info: Associate Professor
-  email: jdowling@kth.se
-  web: <a href="https://www.kth.se/profile/jdowling/">Webpage</a>
-
 - name: Sarunas Girdzijauskas
   photo: sarunas.jpg
   info: Associate Professor
   email: sarunasg@kth.se
   web: <a href="https://www.kth.se/profile/sarunasg">Webpage</a>
+
+- name: Jim Dowling
+  photo: jim.jpg
+  info: Associate Professor
+  email: jdowling@kth.se
+  web: <a href="https://www.kth.se/profile/jdowling/">Webpage</a>
 
 - name: Amir H. Payberah
   photo: amir.jpg
