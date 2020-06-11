@@ -18,6 +18,8 @@ permalink: /publication/
 
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
+* Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, and Asterios Katsifodimos, [Beyond Analytics: the Evolution of Stream Processing Systems](/papers/SIGMOD-streams.pdf), ACM Special Interest Group on Management Of Data (SIGMOD)
+
 <br>
 
 ## 2019
