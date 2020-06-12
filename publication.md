@@ -24,6 +24,8 @@ permalink: /publication/
 
 * Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, and Asterios Katsifodimos, [Beyond Analytics: the Evolution of Stream Processing Systems](/papers/SIGMOD-streams.pdf), ACM Special Interest Group on Management Of Data (SIGMOD)
 
+* Peter Van Roy, Seif Haridi, Christian Schulte, and Gert Smolka, [A History of the Oz Multiparadigm Language](/papers/hopl20main-p14-p-329dcad--final.pdf), ACM Programming Language
+
 * Zekarias T. Kefato, and Sarunas Girdzijauskas, [Gossip and Attend: Context-Sensitive Graph Representation Learning](/papers/7305-Article Text-10535-1-10-20200601.pdf), International AAAI Conference on Web and Social Media (ICWSM)
 
 * Zekarias T. Kefato, and Sarunas Girdzijauskas, [Graph Neighborhood Attentive Pooling](/papers/2001.10394.pdf), arXiv
