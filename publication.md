@@ -14,6 +14,8 @@ permalink: /publication/
 
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
+* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao, Tianze Wang, and Amir H. Payberah, [Use All Your Skills, Not Only The Most Popular Ones](/papers/gameplay.pdf), IEEE Conference on Games (CoG)
+
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
 
 * Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf), Decision Support Systems
