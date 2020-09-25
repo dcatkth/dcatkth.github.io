@@ -15,6 +15,7 @@ permalink: /vacancies/
 * Distributed training of deep learning models for Copernicus data [[link](https://people.kth.se/~vladv/Distributed_DL_training.pdf)]
 * Sea ice classification of SAR images using RNNs [[link](https://people.kth.se/~vladv/Polar_food_Security_UseCases.pdf)]
 * Semi-supervised approach for classification of multi-spectral images of crop types using GANs [[link](https://people.kth.se/~vladv/Polar_food_Security_UseCases.pdf)]
+* Efficient and QoS-Aware Co-location of Multiple Applications on Datacentre Nodes [[link](https://people.kth.se/~vladv/master-thesis-topic-2020.pdf)]
 
 
 
