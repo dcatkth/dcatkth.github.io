@@ -12,13 +12,21 @@ permalink: /publication/
 
 * Amira Soliman, Sarunas Girdzijauskas, Mohamed-Rafik Bouguelia, Sepideh Pashami, and Slawomir Nowacz, [Decentralized and Adaptive K-Means Clustering for Non-IID Data using HyperLogLog Counters](/papers/Soliman2020DecentralizedKmeans.pdf), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
 
+* Andrea Nardelli, Vladimir Vlassov, Amir H. Payberah, Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale, The IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Exeter, UK, December 2020.
+
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+
+* Farzad Kamrani, Andreas Elers, Mika Cohen, and Amir H. Payberah, MarioDAgger: A Time and Space Efficient Autonomous Driver, The IEEE International Conference on Machine Learning and Applications (ICMLA), Miami, USA, December 2020.
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao, Tianze Wang, and Amir H. Payberah, [Use All Your Skills, Not Only The Most Popular Ones](/papers/gameplay.pdf), IEEE Conference on Games (CoG)
 
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
 
 * Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf), Decision Support Systems
+
+* Milko Mitropolitsky, Zainab Abbas, Amir H. Payberah, Graph Representation Matters in Device Placement, Workshop on Distributed Infrastructures for Deep Learning (DIDL), co-located with Middleware, Delft, the Netherlands, December 2020.
+
+* Moritz Meister, Sina Sheikholeslami, Amir H. Payberah, Vladimir Vlassov, Jim Dowling, Maggy: Scalable Asynchronous Parallel Hyperparameter Search, Workshop on Distributed Machine Learning (DistributedML), co-located with CoNEXT, Barcelona, Spain, December 2020.
 
 * Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
 
@@ -27,6 +35,8 @@ permalink: /publication/
 * Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, and Asterios Katsifodimos, [Beyond Analytics: the Evolution of Stream Processing Systems](/papers/SIGMOD-streams.pdf), ACM Special Interest Group on Management Of Data (SIGMOD)
 
 * Peter Van Roy, Seif Haridi, Christian Schulte, and Gert Smolka, [A History of the Oz Multiparadigm Language](/papers/hopl20main-p14-p-329dcad--final.pdf), ACM Programming Language
+
+* Tianze Wang, Amir H. Payberah, and Vladimir Vlassov, ConvJSSP: Convolutional Learning for Job-Shop Scheduling Problems, The IEEE International Conference on Machine Learning and Applications (ICMLA), Miami, USA, December 2020.
 
 * Zekarias T. Kefato, and Sarunas Girdzijauskas, [Gossip and Attend: Context-Sensitive Graph Representation Learning](/papers/7305-Article Text-10535-1-10-20200601.pdf), International AAAI Conference on Web and Social Media (ICWSM)
 
