@@ -10,6 +10,8 @@ permalink: /vacancies/
 ## PhD Position
 * Doctoral student in software technology: big data analysis systems [[link](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:360354/type:job/where:4/apply:1)]
 
+<br>
+
 ## Master Thesis
 * Time-series forecasting using spiking neural networks [[link](https://people.kth.se/~vladv/Master%20thesis%20Topics.pdf)]
 * Online machine learning on data streams [[link](https://people.kth.se/~vladv/Master%20thesis%20Topics.pdf)]
