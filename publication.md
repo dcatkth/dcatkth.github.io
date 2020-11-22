@@ -8,27 +8,37 @@ permalink: /publication/
 <br>
 
 ## 2020
-* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi, and Jim Dowling, [Implicit Provenance for Machine Learning Artifacts](/papers/provenance_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
+* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi, and Jim Dowling, [Implicit Provenance for Machine Learning Artifacts](/papers/provenance_mlsys20.pdf), Workshop on MLOps Systems, co-located with MLSys
+
+* Alexandru A Ormenisan, Moritz Meister, Fabio Buso, Robin Andersson, Seif Haridi, and Jim Dowling, [Time Travel and Provenance for Machine Learning Pipelines](/papers/opml20-paper-ormenisan.pdf), The USENIX Conference on Operational Machine Learning (OpML)
 
 * Amira Soliman, Sarunas Girdzijauskas, Mohamed-Rafik Bouguelia, Sepideh Pashami, and Slawomir Nowacz, [Decentralized and Adaptive K-Means Clustering for Non-IID Data using HyperLogLog Counters](/papers/Soliman2020DecentralizedKmeans.pdf), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
 
 * Andrea Nardelli, Vladimir Vlassov, Amir H. Payberah, [Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale](/papers/smbjoin.pdf), The IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)
 
+* Daniele Montesi, Vladimir Vlassov, and Sarunas Girdzijauskas, Repeating Link Prediction over Dynamic Graphs, Workshop on Big Data for Financial News and Data, co-located with IEEE BigData
+
 * David Gureya, Joao Neto, Reza Karimi, Joao Barreto, Pramod Bhatotia, Vivien Quema, Rodrigo Rodrigues, Paolo Romano, and Vladimir Vlassov, [Bandwidth-Aware Page Placement in NUMA Systems](/papers/2020_bwap_preprint.pdf), IEEE International Parallel and Distributed Processing Symposium (IPDPS)
 
 * Farzad Kamrani, Andreas Elers, Mika Cohen, and Amir H. Payberah, [MarioDAgger: A Time and Space Efficient Autonomous Driver](/papers/mariodagger.pdf), The IEEE International Conference on Machine Learning and Applications (ICMLA)
 
-* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao, Tianze Wang, and Amir H. Payberah, [Use All Your Skills, Not Only The Most Popular Ones](/papers/gameplay.pdf), IEEE Conference on Games (CoG)
+* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao, Tianze Wang, and Amir H. Payberah, [Use All Your Skills, Not Only The Most Popular Ones](/papers/gameplay.pdf), The IEEE Conference on Games (CoG)
+
+* Jingna Zeng, Seif Haridi, Shady Issa, Paolo Romano, and Luis Rodrigues, [Giving Future (s) to Transactional Memory](/papers/3350755.3400220.pdf), The ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
 
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
 
+* Mahmoud Ismail, Salman Niazi, Gautier Berthou, Mikael Ronstrom, Seif Haridi, and Jim Dowling, HopsFS-S3: Extending Object Stores with POSIX-like Semantics and More, The ACM/IFIP International Middleware Conference (Middleware)
+
+* Mahmoud Ismail, Salman Niazi, Mauritz Sundell, Mikael Ronström, Seif Haridi, and Jim Dowling, Distributed Hierarchical File Systems Strike Back in the Cloud, The IEEE International Conference on Distributed Computing Systems (ICDCS)
+
 * Marianela García Lozano, Joel Brynielsson, Ulrik Frankec, Magnus Rosella, Edward Tjörnhammar, Stefan Varga, Vladimir Vlassov, [Veracity Assessment of Online Data](/papers/1-s2.0-S0167923619301617-main.pdf), Decision Support Systems
 
-* Milko Mitropolitsky, Zainab Abbas, Amir H. Payberah, [Graph Representation Matters in Device Placement](/papers/device_placement.pdf), Workshop on Distributed Infrastructures for Deep Learning (DIDL), co-located with Middleware
+* Milko Mitropolitsky, Zainab Abbas, Amir H. Payberah, [Graph Representation Matters in Device Placement](/papers/device_placement.pdf), Workshop on Distributed Infrastructures for Deep Learning (DIDL), co-located with ACM/IFIP Middleware
 
-* Moritz Meister, Sina Sheikholeslami, Amir H. Payberah, Vladimir Vlassov, Jim Dowling, [Maggy: Scalable Asynchronous Parallel Hyperparameter Search](/papers/maggy.pdf), Workshop on Distributed Machine Learning (DistributedML), co-located with CoNEXT
+* Moritz Meister, Sina Sheikholeslami, Amir H. Payberah, Vladimir Vlassov, Jim Dowling, [Maggy: Scalable Asynchronous Parallel Hyperparameter Search](/papers/maggy.pdf), Workshop on Distributed Machine Learning (DistributedML), co-located with ACM CoNEXT
 
-* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, International Conference on Machine Learning and Systems (MLSys)
+* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru A. Ormenisan, and Jim Dowling, [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions](/papers/oblivious-training_mlsys20.pdf), Workshop on MLOps Systems, co-located with MLSys
 
 * Nuno Apolónia, Felix Freitag, Leandro Navarro, and Sarunas Girdzijauskas, [Socially Aware Microcloud Service Overlay Optimization in Community Networks](/papers/spe.2750.pdf), Software: Practice and Experience
 
@@ -36,9 +46,19 @@ permalink: /publication/
 
 * Peter Van Roy, Seif Haridi, Christian Schulte, and Gert Smolka, [A History of the Oz Multiparadigm Language](/papers/hopl20main-p14-p-329dcad--final.pdf), ACM Programming Language
 
+* Sana Imtiaz, Sonia-Florina Horchidan, Zainab Abbas, Muhammad Arsalan, Hassan Nazeer Chaudhry, and Vladimir Vlassov, Privacy Preserving Time-Series Forecasting of User Health Data Streams, Workshop on Data Analytics for Smart Health (DASH), co-located with IEEE BigData
+
+* Stefanos Antaris, Dimitrios Rafailidis, and Sarunas Girdzijauskas, EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events, The IEEE International Conference on Big Data (BigData)
+
+* Sumeet Dhariwal, Ying Liu, Abubakrelsedik Karali, Vladimir Vlassov, Clothing Classification using Unsupervised Pre-Training, International Conference on Multimedia Computing, Networking and Applications (MCNA)
+
+* Susanna Pozzoli, Amira Soliman, Leila Bahri, Rui MamedeBranca, Sarunas Girdzijauskas, and Marco Brambilla, Domain Expertise–Agnostic Feature Selection for the Analysis of Breast Cancer Data, Artificial Intelligence in Medicine
+
 * Tianze Wang, Amir H. Payberah, and Vladimir Vlassov, [ConvJSSP: Convolutional Learning for Job-Shop Scheduling Problems](/papers/convjssp.pdf), The IEEE International Conference on Machine Learning and Applications (ICMLA)
 
-* Zekarias T. Kefato, and Sarunas Girdzijauskas, [Gossip and Attend: Context-Sensitive Graph Representation Learning](/papers/7305-Article Text-10535-1-10-20200601.pdf), International AAAI Conference on Web and Social Media (ICWSM)
+* Zed Lee, Sarūnas Girdzijauskas, and Panagiotis Papapetrou, [Z-Embedding: A Spectral Representation of Event Intervals for Efficient Clustering and Classification](/papers/Lee2020Zembedding.pdf), The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)
+
+* Zekarias T. Kefato, and Sarunas Girdzijauskas, [Gossip and Attend: Context-Sensitive Graph Representation Learning](/papers/7305-Article Text-10535-1-10-20200601.pdf), The International AAAI Conference on Web and Social Media (ICWSM)
 
 * Zekarias T. Kefato, and Sarunas Girdzijauskas, [Graph Neighborhood Attentive Pooling](/papers/2001.10394.pdf), arXiv
 
