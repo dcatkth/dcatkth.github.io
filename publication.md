@@ -14,7 +14,7 @@ permalink: /publication/
 
 * Amira Soliman, Sarunas Girdzijauskas, Mohamed-Rafik Bouguelia, Sepideh Pashami, and Slawomir Nowacz, [Decentralized and Adaptive K-Means Clustering for Non-IID Data using HyperLogLog Counters](/papers/Soliman2020DecentralizedKmeans.pdf), The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
 
-* Andrea Nardelli, Vladimir Vlassov, Amir H. Payberah, [Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale](/papers/smbjoin.pdf), The IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)
+* Andrea Nardelli, Vladimir Vlassov, Amir H. Payberah, [Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale](/papers/smbjoin.pdf), The IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) [<font color="red"><b>Best Paper Award</b></font>]
 
 * Daniele Montesi, Vladimir Vlassov, and Sarunas Girdzijauskas, Repeating Link Prediction over Dynamic Graphs, Workshop on Big Data for Financial News and Data, co-located with IEEE BigData
 
