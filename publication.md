@@ -7,6 +7,11 @@ permalink: /publication/
 
 <br>
 
+## 2021
+* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, Generalized Reinforcement Learning for Gameplay, Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
+
+<br>
+
 ## 2020
 * Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi, and Jim Dowling, [Implicit Provenance for Machine Learning Artifacts](/papers/provenance_mlsys20.pdf), Workshop on MLOps Systems, co-located with MLSys
 
