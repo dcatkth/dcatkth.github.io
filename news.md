@@ -8,6 +8,7 @@ permalink: /news/
 
 <br>
 ## 2020
+* Best paper award at [ISPA](https://hpcn.exeter.ac.uk/ispa2020/) for the paper [Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale](https://dcatkth.github.io/papers/smbjoin.pdf) by Andrea Nardelli, Vladimir Vlassov, and Amir H. Payberah [[web](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-amir-payberah-1.1042440)]
 * [Hopsworks](https://www.hopsworks.ai/) platform was awarded as the best AI Product in the Next-Generation Infrastructure by CognitionX in 2020 [[web](https://cogx.co/cogx-awards/awards-2020-winners/)]
 * In memory of [Christian Schulte](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/in-memory-of-christian-schulte-1.969552), 2 March 1967 - 17 March 2020
 <br><br>
