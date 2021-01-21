@@ -8,7 +8,7 @@ permalink: /publication/
 <br>
 
 ## 2021
-* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, Generalized Reinforcement Learning for Gameplay, Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
+* Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
 <br>
 
