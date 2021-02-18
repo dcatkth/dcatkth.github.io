@@ -10,6 +10,12 @@ permalink: /publication/
 ## 2021
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
+* Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, IMITA: Imitation Learning for Generalizing Cloud Orchestration, The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+
+* Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/snn.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
+
+* Zekarias T. Kefato, Sarunas Girdzijauskas, Nasrullah Sheikh, and Alberto Montresor, [Dynamic Embeddings for Interaction Prediction](/papers/TheWebConf2021.pdf), The Web Conference (WWW)
+
 <br>
 
 ## 2020
@@ -32,8 +38,6 @@ permalink: /publication/
 * Jingna Zeng, Seif Haridi, Shady Issa, Paolo Romano, and Luis Rodrigues, [Giving Future (s) to Transactional Memory](/papers/3350755.3400220.pdf), The ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
 
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
-
-Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, IMITA: Imitation Learning for Generalizing Cloud Orchestration, The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
 * Mahmoud Ismail, Salman Niazi, Gautier Berthou, Mikael Ronstrom, Seif Haridi, and Jim Dowling, HopsFS-S3: Extending Object Stores with POSIX-like Semantics and More, The ACM/IFIP International Middleware Conference (Middleware)
 
