@@ -12,7 +12,7 @@ permalink: /publication/
 
 * Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, IMITA: Imitation Learning for Generalizing Cloud Orchestration, The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
-* Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/snn.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
+* Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
 
 * Zekarias T. Kefato, Sarunas Girdzijauskas, Nasrullah Sheikh, and Alberto Montresor, [Dynamic Embeddings for Interaction Prediction](/papers/TheWebConf2021.pdf), The Web Conference (WWW)
 
