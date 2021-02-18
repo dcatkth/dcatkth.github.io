@@ -33,6 +33,8 @@ permalink: /publication/
 
 * Jose Roberto Ayala Solares, Francesca Elisa Diletta Raimondi, Yajie Zhu, Fatemeh Rahimian, Dexter Canoy, Jenny Tran, Ana Catarina Pinho Gomes, Amir H. Payberah, Mariagrazia Zottoli, Milad Nazarzadeh, Nathalie Conrad, Kazem Rahimi, and Gholamreza Salimi-Khorshidi, [Deep Learning for Electronic Health Records: A Comparative Review of Multiple Deep Neural Architectures](/papers/dl_for_ehr.pdf), Journal of Biomedical Informatics
 
+Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, IMITA: Imitation Learning for Generalizing Cloud Orchestration, The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+
 * Mahmoud Ismail, Salman Niazi, Gautier Berthou, Mikael Ronstrom, Seif Haridi, and Jim Dowling, HopsFS-S3: Extending Object Stores with POSIX-like Semantics and More, The ACM/IFIP International Middleware Conference (Middleware)
 
 * Mahmoud Ismail, Salman Niazi, Mauritz Sundell, Mikael Ronström, Seif Haridi, and Jim Dowling, Distributed Hierarchical File Systems Strike Back in the Cloud, The IEEE International Conference on Distributed Computing Systems (ICDCS)

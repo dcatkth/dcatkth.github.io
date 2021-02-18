@@ -7,6 +7,10 @@ permalink: /news/
 <center><img src="/images/news.jpg" width="1000" height="200" align="center"></center>
 
 <br>
+## 2021
+* New DataCloud project to offer innovative solutions to Big Data [[Press Release](/papers/datacloud_press_release1.pdf)].
+<br><br>
+
 ## 2020
 * Best paper award at [ISPA](https://hpcn.exeter.ac.uk/ispa2020/) for the paper [Framework-Agnostic Optimization of Repeated Skewed Joins at Massive Scale](https://dcatkth.github.io/papers/smbjoin.pdf) by Andrea Nardelli, Vladimir Vlassov, and Amir H. Payberah [[web](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-amir-payberah-1.1042440)]
 * [Hopsworks](https://www.hopsworks.ai/) platform was awarded as the best AI Product in the Next-Generation Infrastructure by CognitionX in 2020 [[web](https://cogx.co/cogx-awards/awards-2020-winners/)]
