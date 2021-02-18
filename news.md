@@ -8,7 +8,7 @@ permalink: /news/
 
 <br>
 ## 2021
-* New DataCloud project to offer innovative solutions to Big Data [[Press Release](/papers/datacloud_press_release1.pdf)].
+* New DataCloud project to offer innovative solutions to Big Data [[Press Release](/papers/datacloud_press_release1.pdf)]
 <br><br>
 
 ## 2020
