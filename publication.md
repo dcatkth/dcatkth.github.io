@@ -12,7 +12,7 @@ permalink: /publication/
 
 * Jingna Zeng, Shady Issa, Paolo Romano, Luis Rodrigues, and Seif Haridi, [Investigating the Semantics of Futures in Transactional Memory Systems](/papers/sematicsoffutures-Jingna.pdf), ACM SIGPLAN Annual Symposium Principles and Practice of Parallel Programming (PPoPP)
 
-* Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, IMITA: Imitation Learning for Generalizing Cloud Orchestration, The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+* Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, [IMITA: Imitation Learning for Generalizing Cloud Orchestration](/papers/imita.pdf), The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
 * Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
 
