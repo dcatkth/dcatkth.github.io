@@ -18,6 +18,7 @@ The overall vision of the DataCloud project is the creation of a novel paradigm 
 covering the complete lifecycle of managing Big Data pipelines.
 </p>
 
+<br>
 #### **[Real-time Analytics for Internet of Sports (RAIS)](https://rais-itn.eu) (H2020 Marie Curie ITN, 2019-2023)**
 <p align="justify">
 Over the past few years, we have been witnessing an increasing presence and usage of wearable sensing and quantified- self devices. 
