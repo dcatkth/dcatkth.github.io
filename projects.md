@@ -7,6 +7,17 @@ permalink: /projects/
 
 <br>
 ## Current Projects
+#### **[Enabling the Big Data Pipeline Lifecycle on the Computing Continuum (DataCloud)](https://datacloudproject.eu/) (H2020, 2021-2024)**
+<p align="justify">
+With the recent developments in technologies such as the Internet of Things, massive amounts of data are being generated and often become Dark Data, i.e., data that are collected but
+not used and turned into value. Big Data pipelines are composite pipelines for processing data with non-trivial properties and characteristics, commonly referred to as the Vs of
+Big Data (e.g., volume, velocity, variety, veracity, value,etc.). They are essential for leveraging Dark Data, but tapping their potential requires going beyond the current approaches
+and frameworks for Big Data processing. At the same time, the Computing Continuum – federating Cloud services with emerging Edge and Fog computing paradigms – enables new opportunities
+for supporting Big Data pipelines, although challenges remain in the efficient management of heterogeneous and untrusted resources across the Computing Continuum.
+The overall vision of the DataCloud project is the creation of a novel paradigm for Big Data pipeline processing over heterogeneous resources encompassing the Computing Continuum,
+covering the complete lifecycle of managing Big Data pipelines.
+</p>
+
 #### **[Real-time Analytics for Internet of Sports (RAIS)](https://rais-itn.eu) (H2020 Marie Curie ITN, 2019-2023)**
 <p align="justify">
 Over the past few years, we have been witnessing an increasing presence and usage of wearable sensing and quantified- self devices. 

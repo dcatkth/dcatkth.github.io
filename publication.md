@@ -16,6 +16,8 @@ permalink: /publication/
 
 * Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
 
+* Sina Sheikholeslami, Moritz Meister, Tianze Wang, Amir H. Payberah, Vladimir Vlassov, and Jim Dowling, [AutoAblation: Automated Parallel Ablation Studies for Deep Learning](/papers/autoablation.pdf), Workshop on Machine Learning and Systems (EuroMLSys), co-located with EuroSys
+
 * Zekarias T. Kefato, Sarunas Girdzijauskas, Nasrullah Sheikh, and Alberto Montresor, [Dynamic Embeddings for Interaction Prediction](/papers/TheWebConf2021.pdf), The Web Conference (WWW)
 
 <br>
