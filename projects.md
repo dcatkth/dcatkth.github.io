@@ -46,14 +46,8 @@ The Continuous Deep Analytics (CDA) project aims to shape the next-generation so
 ExtremeEarth concentrates on developing techniques and software that will enable the extraction of information and knowledge from big Copernicus data using deep learning techniques and extreme geospatial analytics, and the development of two use cases based on this information and knowledge and other relevant non-EO data sets. ExtremeEarth will impact developments in the Integrated Ground Segment of Copernicus and the Sentinel Collaborative Ground Segment. ExtremeEarth tools and techniques can be used for extracting information and knowledge from big Copernicus data and making this information and knowledge available as linked data and, in this way, allow the easy development of applications by developers with minimal or no knowledge of EO techniques, file formats, data access protocols etc.
 </p>
 
-<br>
-#### **[A Big Data Analytics Framework for a Smart Society (BIDAF)](http://bidaf.sics.se) (KK-stiffen (KKS), 2014-2019)**
-<p align="justify">
-The overall aim of the BIDAF project is to significantly further the research within massive data analysis, by means of machine learning, in response to the increasing demand of retrieving value from data in all of society. This will be done by creating a strong distributed research environment for big data analytics.
-There are challenges on several levels that must be addressed: (i) platforms to store and process the data, (ii) machine learning algorithms to analyze the data, and (iii) high level tools to access the results.
-</p>
-
-<br>
+<br><br>
+## Past Projects
 #### **[Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC)](http://emjd-dc.eu/) (EU/EACEA, 2011-2020)**
 <p align="justify">
 EMJD-DC is an international doctoral programme in Distributed Systems.
@@ -62,8 +56,14 @@ The research projects address some of the key technological challenges of our ti
 The consortium partners assembled in EMJD-DC have a high international reputation in the research fields described above. They complement each other very well in their specialisation fields of research, and in the corresponding training offers. The first language of all training and research activities will be English, but students are exposed to local languages.
 </p>
 
-<br><br>
-## Past Projects
+<br>
+#### **[A Big Data Analytics Framework for a Smart Society (BIDAF)](http://bidaf.sics.se) (KK-stiffen (KKS), 2014-2019)**
+<p align="justify">
+The overall aim of the BIDAF project is to significantly further the research within massive data analysis, by means of machine learning, in response to the increasing demand of retrieving value from data in all of society. This will be done by creating a strong distributed research environment for big data analytics.
+There are challenges on several levels that must be addressed: (i) platforms to store and process the data, (ii) machine learning algorithms to analyze the data, and (iii) high level tools to access the results.
+</p>
+
+<br>
 #### **[StreamLine](https://h2020-streamline-project.eu) (H2020, 2016-2018)**
 <p align="justify">
 Streamline is funded by the European Union’s Horizon 2020 research and innovation program to enhance the European data plattform Apache Flink to handle both stream data and batch data in a unified way. 
