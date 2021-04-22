@@ -8,11 +8,11 @@ permalink: /publication/
 <br>
 
 ## 2021
-* Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, Decentralized Word2Vec Using Gossip Learning, Nordic Conference on Computational Linguistics (NoDaLiDa)
+* Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Decentralized Word2Vec Using Gossip Learning](/papers/Alkathiri2021DecentralizedWord2Vec.pdf), Nordic Conference on Computational Linguistics (NoDaLiDa)
 
-* Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, A Digital Nervous System Aiming Toward Personalized IoT Healthcare, Scientific reports
+* Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
-* Desta Haileselassie Hagos1, Theofilos Kakantousis2, Vladimir Vlassov1, Sina Sheikholeslami1Tianze Wang1, Jim Dowling1, 2, Andrew Fleming3, Andreas Cziferszky3, Markus Muerth4, Florian Appel4Despina-Athanasia Pantazi5, Dimitris Bilidas5, George Papadakis5, George Mandilaras5George Stamoulis5, Manolis Koubarakis5, Antonis Troumpoukis6, Stasinos Konstantopoulos, Software Architecture for Copernicus Earth Observation Data, Big Data from Space (BiDS)
+* Desta Haileselassie Hagos1, Theofilos Kakantousis2, Vladimir Vlassov1, Sina Sheikholeslami1Tianze Wang1, Jim Dowling1, 2, Andrew Fleming3, Andreas Cziferszky3, Markus Muerth4, Florian Appel4Despina-Athanasia Pantazi5, Dimitris Bilidas5, George Papadakis5, George Mandilaras5George Stamoulis5, Manolis Koubarakis5, Antonis Troumpoukis6, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
@@ -20,17 +20,17 @@ permalink: /publication/
 
 * Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, [IMITA: Imitation Learning for Generalizing Cloud Orchestration](/papers/imita.pdf), The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
-* Lodovico Giaretta, Ioannis Savvidis, Thomas Marchioro, Sarunas Girdzijauskas, George Pallis, Marios D. Dikaiakos, and Evangelos Markatos, PDS2: A User-Centered Decentralized Marketplace for Privacy Preserving Data Processing, International Workshop on Blockchain and Data Management (BlockDM2021), co-located with IDCE
+* Lodovico Giaretta, Ioannis Savvidis, Thomas Marchioro, Sarunas Girdzijauskas, George Pallis, Marios D. Dikaiakos, and Evangelos Markatos, [PDS2: A User-Centered Decentralized Marketplace for Privacy Preserving Data Processing](/papers/Giaretta2021PDS2.pdf), International Workshop on Blockchain and Data Management (BlockDM2021), co-located with IDCE
 
-* Manolis Koubarakis, George Stamoulis, Dimitris Bilidas, Theofilos Ioannidis, Despina-Athanasia Pantazi, Vladimir Vlassov, Amir H. Payberah, Tianze Wang, Sina Sheikholeslami, Desta Haileselassie Hagos, Lorenzo Bruzzone, Claudia Paris, Giulio Weikmann, Daniele Marinelli, Torbjørn Eltoft, Andrea Marinoni, Thomas Kræmer, Salman Khaleghian, Antonis Troumpoukis, Stasinos Konstantopoulos, Vangelis Karkaletsis, Jim Dowling, Theofilos Kakantousis, Mihai Datcu, Corneliu Octavian Dumitru, Wei Yao, Florian Appel, Silke Migdall, Markus Muerth, Heike Bach, Nick Hughes, Alistair Everett, Ashild Kiærbech, Joakim Lillehaug Pedersen, David Arthurs, Andrew Fleming and Andreas Cziferszky, Artificial Intelligence and Big Data Technologies for Copernicus Data: the ExtremeEarth Project, Big Data from Space (BiDS)
+* Manolis Koubarakis, George Stamoulis, Dimitris Bilidas, Theofilos Ioannidis, Despina-Athanasia Pantazi, Vladimir Vlassov, Amir H. Payberah, Tianze Wang, Sina Sheikholeslami, Desta Haileselassie Hagos, Lorenzo Bruzzone, Claudia Paris, Giulio Weikmann, Daniele Marinelli, Torbjørn Eltoft, Andrea Marinoni, Thomas Kræmer, Salman Khaleghian, Antonis Troumpoukis, Stasinos Konstantopoulos, Vangelis Karkaletsis, Jim Dowling, Theofilos Kakantousis, Mihai Datcu, Corneliu Octavian Dumitru, Wei Yao, Florian Appel, Silke Migdall, Markus Muerth, Heike Bach, Nick Hughes, Alistair Everett, Ashild Kiærbech, Joakim Lillehaug Pedersen, David Arthurs, Andrew Fleming, and Andreas Cziferszky, [Artificial Intelligence and Big Data Technologies for Copernicus Data: the ExtremeEarth Project](/papers/bids.pdf), Big Data from Space (BiDS)
 
 * Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
 
 * Sina Sheikholeslami, Moritz Meister, Tianze Wang, Amir H. Payberah, Vladimir Vlassov, and Jim Dowling, [AutoAblation: Automated Parallel Ablation Studies for Deep Learning](/papers/autoablation.pdf), Workshop on Machine Learning and Systems (EuroMLSys), co-located with EuroSys
 
 * Zekarias Kefato, Sarunas Girdzijauskas, Nasrullah Sheikh, and Alberto Montresor, [Dynamic Embeddings for Interaction Prediction](/papers/TheWebConf2021.pdf), The Web Conference (WWW)
-
-* Zekarias Kefato, and Sarunas Girdzijauskas, Self-supervised Graph Neural Networks without explicit negative sampling, International Workshop on Self-Supervised Learning for the Web (SSL'21), co-located with WWW
+>
+* Zekarias Kefato, and Sarunas Girdzijauskas, [Self-supervised Graph Neural Networks Without Explicit Negative Sampling](/papers/2103.14958.pdf), International Workshop on Self-Supervised Learning for the Web (SSL'21), co-located with WWW
 
 <br>
 
