@@ -14,7 +14,7 @@ permalink: /publication/
 
 * David Gureya, João Barreto and Vladimir Vlassov, [Brief Announcement: BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
 
-* Desta Haileselassie Hagos1, Theofilos Kakantousis2, Vladimir Vlassov1, Sina Sheikholeslami1Tianze Wang1, Jim Dowling1, 2, Andrew Fleming3, Andreas Cziferszky3, Markus Muerth4, Florian Appel4Despina-Athanasia Pantazi5, Dimitris Bilidas5, George Papadakis5, George Mandilaras5George Stamoulis5, Manolis Koubarakis5, Antonis Troumpoukis6, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Andrew Fleming, Andreas Cziferszky, Markus Muerth, Florian Appel, Despina-Athanasia Pantazi, Dimitris Bilidas, George Papadakis, George Mandilaras, George Stamoulis, Manolis Koubarakis, Antonis Troumpoukis, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
