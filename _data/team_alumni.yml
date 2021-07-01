@@ -49,7 +49,7 @@
 - name: Fatemeh Rahimian
   photo: fatemeh.jpg
   info: PhD in 2014
-  email: Senior Data Scientist at Swedbank
+  email: Senior Researcher at RISE
   web: <a href="https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/">Webpage</a>
 
 - name: Gabriel Hjort Blindell
@@ -94,6 +94,12 @@
   email: CTO & Co-founder at Hedvig
   web: <a href="https://www.linkedin.com/in/johnardelius/">Webpage</a>
 
+- name: Karl Fredrik Erliksson
+  photo: karl.jpg
+  info: PhD Student 2020-2021
+  email: Senior Data Scientist
+  web: <a href="https://www.linkedin.com/in/karl-fredrik-erliksson">Webpage</a>
+
 - name: Lars Kroll
   photo: lars.jpg
   info: PhD in 2020
@@ -105,6 +111,12 @@
   info: Postdoc 2017-2019
   email: Senior Researcher at Scania
   web: <a href="https://www.linkedin.com/in/leila-bahri-b66850156/">Webpage</a>
+
+- name: Mahmoud Ismail
+  photo: mahmoud.jpg
+  info: PhD in 2020
+  email: Senior Researcher at Logical Clocks
+  web: <a href="https://www.linkedin.com/in/maismail">Webpage</a>
 
 - name: Muhammad Anis Nasir
   photo: anis.jpg

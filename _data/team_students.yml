@@ -10,6 +10,12 @@
   email: aaor@kth.se
   web: <a href="https://www.kth.se/profile/aaor">Webpage</a>
 
+- name: Amirhossein Layegh
+  photo: amirh.jpg
+  info: PhD Student
+  email: amlk@kth.se
+  web: <a href="https://www.linkedin.com/in/amirhosseinlayegh/">Webpage</a>
+
 - name: David Daharewa Gureya
   photo: david.jpg
   info: PhD Student
@@ -34,17 +40,17 @@
   email: fcornell@kth.se
   web: <a href="https://www.kth.se/profile/fcornell?l=en">Webpage</a>
 
+- name: Harald Ng
+  photo: harald.jpg
+  info: PhD Student
+  email: hng@kth.se
+  web: <a href="https://www.kth.se/profile/hng">Webpage</a>
+
 - name: Kamal Hakimzadeh
   photo: kamal.jpg
   info: PhD Student
   email: kamal2@kth.se
   web: <a href="https://www.kth.se/profile/mahh">Webpage</a>
-
-- name: Karl Fredrik Erliksson
-  photo: karl.jpg
-  info: PhD Student
-  email: kferl@kth.se
-  web: <a href="https://www.kth.se/profile/kferl">Webpage</a>
 
 - name: Klas Segeljakt
   photo: klas.jpg
@@ -57,12 +63,6 @@
   info: PhD Student
   email: lodovico@kth.se
   web: <a href="https://www.kth.se/profile/lodovico">Webpage</a>
-
-- name: Mahmoud Ismail
-  photo: mahmoud.jpg
-  info: PhD Student
-  email: maism@kth.se
-  web: <a href="https://www.kth.se/profile/maism">Webpage</a>
 
 - name: Marianela Garcia Lozano
   photo: marianela.jpg
@@ -99,6 +99,18 @@
   info: PhD Student
   email: sinash@kth.se
   web: <a href="https://ssheikholeslami.github.io/">Webpage</a>
+
+- name: Shirin Tahmasebi
+  photo: shirin.jpg
+  info: PhD Student
+  email: shirint@kth.se
+  web: <a href="https://www.linkedin.com/in/shirin-tahmasebi-14200079/">Webpage</a>
+
+- name: Sonia-Florina Horchidan
+  photo: sonia.jpg
+  info: PhD Student
+  email: sfhor@kth.se
+  web: <a href="https://www.kth.se/profile/sfhor">Webpage</a>
 
 - name: Stefanos Antaris
   photo: stefanos.jpg
