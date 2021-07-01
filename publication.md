@@ -12,6 +12,7 @@ permalink: /publication/
 
 * Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
+* Daniel Garcia Bernal, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Federated Word2Vec: Leveraging Federated Learning to Encourage Collaborative Representation Learning](/papers/2105.00831.pdf), arXiv
 * David Gureya, João Barreto and Vladimir Vlassov, [Brief Announcement: BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
 
 * Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Andrew Fleming, Andreas Cziferszky, Markus Muerth, Florian Appel, Despina-Athanasia Pantazi, Dimitris Bilidas, George Papadakis, George Mandilaras, George Stamoulis, Manolis Koubarakis, Antonis Troumpoukis, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
