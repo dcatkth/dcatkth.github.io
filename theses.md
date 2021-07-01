@@ -7,6 +7,7 @@ permalink: /theses/
 <center><img src="/images/thesis.jpg" width="1000" height="200" align="center"></center>
 
 <br>
+* 2020, Mahmoud Ismail, [Distributed File System Metadata and its Applications](/thesis/mahmoud_zeng.pdf)
 * 2020, Jingna Zeng, [Augmenting Transactional Memory with the Future Abstraction](/thesis/jingna_zeng.pdf)
 * 2020, Lars Kroll, [Compile-time Safety and Runtime Performance in Programming Frameworks for Distributed Systems](/thesis/lars_thesis.pdf)
 * 2019, Kambiz Ghoorchian, [Graph Algorithms for Large-Scale and Dynamic Natural Language Processing](/thesis/kambiz_thesis.pdf)

@@ -12,6 +12,8 @@ permalink: /publication/
 
 * Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
+* David Gureya, João Barreto and Vladimir Vlassov, [Brief Announcement: BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+
 * Desta Haileselassie Hagos1, Theofilos Kakantousis2, Vladimir Vlassov1, Sina Sheikholeslami1Tianze Wang1, Jim Dowling1, 2, Andrew Fleming3, Andreas Cziferszky3, Markus Muerth4, Florian Appel4Despina-Athanasia Pantazi5, Dimitris Bilidas5, George Papadakis5, George Mandilaras5George Stamoulis5, Manolis Koubarakis5, Antonis Troumpoukis6, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
@@ -20,11 +22,15 @@ permalink: /publication/
 
 * Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, [IMITA: Imitation Learning for Generalizing Cloud Orchestration](/papers/imita.pdf), The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
+* Karl Fredrik Erliksson, Anders Arpteg, Mihhail Matskin and Amir H. Payberah, [Cross-Domain Transfer of Generative Explanations using Text-to-Text Models](/papers/explainability_transfer.pdf), International Conference on Natural Language and Information Systems (NLDB)
+
 * Lodovico Giaretta, Ioannis Savvidis, Thomas Marchioro, Sarunas Girdzijauskas, George Pallis, Marios D. Dikaiakos, and Evangelos Markatos, [PDS2: A User-Centered Decentralized Marketplace for Privacy Preserving Data Processing](/papers/Giaretta2021PDS2.pdf), International Workshop on Blockchain and Data Management (BlockDM2021), co-located with IDCE
 
 * Manolis Koubarakis, George Stamoulis, Dimitris Bilidas, Theofilos Ioannidis, Despina-Athanasia Pantazi, Vladimir Vlassov, Amir H. Payberah, Tianze Wang, Sina Sheikholeslami, Desta Haileselassie Hagos, Lorenzo Bruzzone, Claudia Paris, Giulio Weikmann, Daniele Marinelli, Torbjørn Eltoft, Andrea Marinoni, Thomas Kræmer, Salman Khaleghian, Antonis Troumpoukis, Stasinos Konstantopoulos, Vangelis Karkaletsis, Jim Dowling, Theofilos Kakantousis, Mihai Datcu, Corneliu Octavian Dumitru, Wei Yao, Florian Appel, Silke Migdall, Markus Muerth, Heike Bach, Nick Hughes, Alistair Everett, Ashild Kiærbech, Joakim Lillehaug Pedersen, David Arthurs, Andrew Fleming, and Andreas Cziferszky, [Artificial Intelligence and Big Data Technologies for Copernicus Data: the ExtremeEarth Project](/papers/bids.pdf), Big Data from Space (BiDS)
 
 * Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
+
+* Sana Imtiaz, Muhammad Arsalan, Vladimir Vlassov and Ramin Sadre, Synthetic and Private Smart Health Care Data Generation using GANs, Workshop on Security, Privacy, Trust, and Machine Learning for IoT (IoTSPT-ML 2021), co-located with ICCCN
 
 * Sina Sheikholeslami, Moritz Meister, Tianze Wang, Amir H. Payberah, Vladimir Vlassov, and Jim Dowling, [AutoAblation: Automated Parallel Ablation Studies for Deep Learning](/papers/autoablation.pdf), Workshop on Machine Learning and Systems (EuroMLSys), co-located with EuroSys
 

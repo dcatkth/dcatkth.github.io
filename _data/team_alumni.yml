@@ -70,6 +70,12 @@
   email: Senior Data Scientist at SEB
   web: <a href="https://www.linkedin.com/in/kambiz-ghoorchian/">Webpage</a>
 
+- name: Karl Fredrik Erliksson
+  photo: karl.jpg
+  info: PhD Student 2020-2021
+  email: Senior Data Scientist
+  web: <a href="https://www.linkedin.com/in/karl-fredrik-erliksson">Webpage</a>
+
 - name: Hooman Peiro Sajjad
   photo: hooman.jpg
   info: PhD in 2018
@@ -94,11 +100,6 @@
   email: CTO & Co-founder at Hedvig
   web: <a href="https://www.linkedin.com/in/johnardelius/">Webpage</a>
 
-- name: Karl Fredrik Erliksson
-  photo: karl.jpg
-  info: PhD Student 2020-2021
-  email: Senior Data Scientist
-  web: <a href="https://www.linkedin.com/in/karl-fredrik-erliksson">Webpage</a>
 
 - name: Lars Kroll
   photo: lars.jpg
