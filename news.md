@@ -8,6 +8,7 @@ permalink: /news/
 
 <br>
 ## 2021
+* PhD position in Natural Language Processing and Machine Learning. Last application date: Sep. 30, 2021 [[apply here](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:426117/where:4/)]
 * New DataCloud project to offer innovative solutions to Big Data [[Press Release](/papers/datacloud_press_release1.pdf)]
 <br><br>
 
