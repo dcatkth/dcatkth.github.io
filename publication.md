@@ -10,13 +10,17 @@ permalink: /publication/
 ## 2021
 * Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Decentralized Word2Vec Using Gossip Learning](/papers/Alkathiri2021DecentralizedWord2Vec.pdf), Nordic Conference on Computational Linguistics (NoDaLiDa)
 
+* Albert Asratyan, Sina Sheikholeslami, and Vladimir Vlassov, A Parallel Chain Mail Approach for Scalable Spatial Data Interpolation, The IEEE International Conference on Big Data (BigData)
+
 * Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
 * Daniel Garcia Bernal, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Federated Word2Vec: Leveraging Federated Learning to Encourage Collaborative Representation Learning](/papers/2105.00831.pdf), arXiv
 
 * David Gureya, João Barreto and Vladimir Vlassov, [Brief Announcement: BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
 
-* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Andrew Fleming, Andreas Cziferszky, Markus Muerth, Florian Appel, Despina-Athanasia Pantazi, Dimitris Bilidas, George Papadakis, George Mandilaras, George Stamoulis, Manolis Koubarakis, Antonis Troumpoukis, and Stasinos Konstantopoulos, [Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Andrew Fleming, Andreas Cziferszky, Markus Muerth, Florian Appel, Despina-Athanasia Pantazi, Dimitris Bilidas, George Papadakis, George Mandilaras, George Stamoulis, Manolis Koubarakis, Antonis Troumpoukis, and Stasinos Konstantopoulos, [The ExtremeEarth Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
+
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Claudia Paris, Daniele Marinelli, Giulio Weikmann, Lorenzo Bruzzone, Salman Khaleghian, Thomas Kræmer, Torbjørn Eltoft, Andrea Marinoni, Despina-Athanasia Pantazi, George Stamoulis, Dimitris Bilidas, George Papadakis, George Mandilaras, Manolis Koubarakis, Antonis Troumpoukis, Stasinos Konstantopoulos, Markus Muerth, Florian Appel, Andrew Fleming, Andreas Cziferszky, [ExtremeEarth Meets Satellite Data from Space](papers/ExtremeEarth_Meets_Satellite_Data_From_Space_JSTARS_2021.pdf), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
