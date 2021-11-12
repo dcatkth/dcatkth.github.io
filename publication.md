@@ -10,7 +10,7 @@ permalink: /publication/
 ## 2021
 * Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Decentralized Word2Vec Using Gossip Learning](/papers/Alkathiri2021DecentralizedWord2Vec.pdf), Nordic Conference on Computational Linguistics (NoDaLiDa)
 
-* Albert Asratyan, Sina Sheikholeslami, and Vladimir Vlassov, A Parallel Chain Mail Approach for Scalable Spatial Data Interpolation, The IEEE International Conference on Big Data (BigData)
+* Albert Asratyan, Sina Sheikholeslami, and Vladimir Vlassov, [A Parallel Chain Mail Approach for Scalable Spatial Data Interpolation](/papers/chainmail_interpolation_bigdata2021.pdf), The IEEE International Conference on Big Data (BigData)
 
 * Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
