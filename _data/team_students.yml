@@ -16,12 +16,6 @@
   email: amlk@kth.se
   web: <a href="https://www.linkedin.com/in/amirhosseinlayegh/">Webpage</a>
 
-- name: David Daharewa Gureya
-  photo: david.jpg
-  info: PhD Student
-  email: daharewa@kth.se
-  web: <a href="https://www.kth.se/profile/daharewa">Webpage</a>
-
 - name: Debaditya Roy
   photo: debaditya.jpg
   info: PhD Student
@@ -33,6 +27,12 @@
   info: PhD Student
   email: edwardt@kth.se
   web: <a href="https://www.kth.se/profile/edwardt">Webpage</a>
+
+- name: Fabian Schmidt
+  photo: fabian.jpg
+  info: PhD Student
+  email: fschm@kth.se
+  web: <a href="https://www.kth.se/profile/fschm">Webpage</a>
 
 - name: Filip Cornell
   photo: filip.jpg
@@ -81,6 +81,12 @@
   info: PhD Student
   email: mmeldrum@kth.se
   web: <a href="https://maxmeldrum.com/">Webpage</a>
+
+- name: Sameen Mansha
+  photo: sameen.jpg
+  info: PhD Student
+  email: sameen@kth.se
+  web: <a href="https://www.kth.se/profile/sameen">Webpage</a>
 
 - name: Sara Karimi
   photo: sara.jpg
