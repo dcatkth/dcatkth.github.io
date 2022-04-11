@@ -82,12 +82,6 @@
   email: mmeldrum@kth.se
   web: <a href="https://maxmeldrum.com/">Webpage</a>
 
-- name: Sana Imtiaz
-  photo: sana.jpg
-  info: PhD Student
-  email: sanaim@kth.se
-  web: <a href="https://www.kth.se/profile/sanaim">Webpage</a>
-
 - name: Sara Karimi
   photo: sara.jpg
   info: PhD Student
@@ -136,8 +130,4 @@
   email: vangjush@kth.se
   web: <a href="https://www.kth.se/profile/vangjush">Webpage</a>
 
-- name: Zainab Abbas
-  photo: zainab.jpg
-  info: PhD Student
-  email: zainabab@kth.se
-  web: <a href="https://www.kth.se/profile/zainabab/">Webpage</a>
+

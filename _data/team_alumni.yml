@@ -46,6 +46,12 @@
   email: Staff Software Engineer at Google
   web: <a href="https://www.linkedin.com/in/cosminarad/">Webpage</a>
 
+- name: David Daharewa Gureya
+  photo: david.jpg
+  info: PhD in 2021
+  email: 
+  web: <a href="https://gureya.github.io/">Webpage</a>
+  
 - name: Fatemeh Rahimian
   photo: fatemeh.jpg
   info: PhD in 2014
@@ -179,6 +185,12 @@
   email: CEO of Novelari
   web: <a href="https://www.linkedin.com/in/sameh-el-ansary-82ba1/">Webpage</a>
 
+- name: Sana Imtiaz
+  photo: sana.jpg
+  info: PhD in 2021
+  email: Software Engineer at Kry
+  web: Webpage
+  
 - name: Shady Issa
   photo: shady.jpg
   info: PhD in 2018
@@ -215,3 +227,8 @@
   email: CTO at Norna
   web: <a href="https://www.linkedin.com/in/ying-liu-phd-2b360a31/">Webpage</a>
 
+- name: Zainab Abbas
+  photo: zainab.jpg
+  info: PhD in 2021
+  email: Software Engineer at Kry
+  web: <a href="https://www.linkedin.com/in/zainababbas1">Webpage</a>
