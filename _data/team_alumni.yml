@@ -43,9 +43,15 @@
 - name: Cosmin Arad
   photo: cosmin.jpg
   info: PhD in 2013
-  email: Senior Software Engineer at Google
+  email: Staff Software Engineer at Google
   web: <a href="https://www.linkedin.com/in/cosminarad/">Webpage</a>
 
+- name: David Daharewa Gureya
+  photo: david.jpg
+  info: PhD in 2021
+  email: 
+  web: <a href="https://gureya.github.io/">Webpage</a>
+  
 - name: Fatemeh Rahimian
   photo: fatemeh.jpg
   info: PhD in 2014
@@ -55,7 +61,7 @@
 - name: Gabriel Hjort Blindell
   photo: gabriel.jpg
   info: PhD in 2018
-  email: Product Developer at Ericsson
+  email: Senior Researcher at Ericsson
   web: <a href="https://www.linkedin.com/in/gabriel-hjort-blindell-37407459/">Webpage</a>
 
 - name: Gautier Berthou
@@ -73,7 +79,7 @@
 - name: Karl Fredrik Erliksson
   photo: karl.jpg
   info: PhD Student 2020-2021
-  email: Senior Data Scientist
+  email: Senior Data Scientist at Spotify
   web: <a href="https://www.linkedin.com/in/karl-fredrik-erliksson">Webpage</a>
 
 - name: Hooman Peiro Sajjad
@@ -104,13 +110,13 @@
 - name: Lars Kroll
   photo: lars.jpg
   info: PhD in 2020
-  email: Reseacher at RISE
+  email: Software Engineer at Databricks
   web: <a href="https://lkroll.com">Webpage</a>
 
 - name: Leila Bahri
   photo: leila.jpg
   info: Postdoc 2017-2019
-  email: Senior Researcher at Scania
+  email: Privacy IT Specialist at Scania Group
   web: <a href="https://www.linkedin.com/in/leila-bahri-b66850156/">Webpage</a>
 
 - name: Mahmoud Ismail
@@ -122,13 +128,13 @@
 - name: Muhammad Anis Nasir
   photo: anis.jpg
   info: PhD in 2018
-  email: Streaming Developer at King
+  email: Software Engineer at H&M Group
   web: <a href="https://www.linkedin.com/in/anis-nasir-01a5ba1a/">Webpage</a>
 
 - name: Navaneeth Rameshan
   photo: navaneeth.jpg
   info: PhD in 2016
-  email: Postdoc at IBM Research
+  email: Research Developer at IBM Research
   web: <a href="https://www.linkedin.com/in/navaneeth-rameshan/">Webpage</a>
 
 - name: Paris Carbone
@@ -152,19 +158,19 @@
 - name: Roberto Castañeda Lozano
   photo: robertoc.jpg
   info: PhD in 2018
-  email: Researcher at RISE
+  email: Senior Member Of Technical Staff at Oracle
   web: <a href="https://www.linkedin.com/in/robcasloz/">Webpage</a>
 
 - name: Roberto Roverso
   photo: roberto.jpg
   info: PhD in 2013
-  email: Engineering Lead at Zalando
+  email: Head Of Engineering & Applied Science - Recommendations at Zalando SE
   web: <a href="https://www.linkedin.com/in/roberto-roverso-4796223/">Webpage</a>
 
 - name: Ruma Paul
   photo: no.jpg
   info: PhD in 2013
-  email: Software Engineer at Microsoft
+  email: Software Engineer at A.P. Moller - Maersk
   web: <a href="https://www.linkedin.com/in/ruma-paul-453a4130/">Webpage</a>
 
 - name: Salman Niazi
@@ -179,22 +185,28 @@
   email: CEO of Novelari
   web: <a href="https://www.linkedin.com/in/sameh-el-ansary-82ba1/">Webpage</a>
 
+- name: Sana Imtiaz
+  photo: sana.jpg
+  info: PhD in 2021
+  email: Software Engineer at Kry
+  web: Webpage
+  
 - name: Shady Issa
   photo: shady.jpg
   info: PhD in 2018
-  email: Postdoc at INESC-ID Lisboa
+  email: Postdoc at TU Munich
   web: <a href="https://www.linkedin.com/in/shady-issa/">Webpage</a>
 
 - name: Tallat Mahmood Shafaat
   photo: tallat.jpg
   info: PhD in 2013
-  email: Senior Software Engineer at Google
+  email: Co-Founder at ZIR AI
   web: <a href="https://www.linkedin.com/in/tallatmshafaat/">Webpage</a>
 
 - name: Theodoros Vasiloudis
   photo: theo.jpg
   info: PhD in 2019
-  email: Researcher at RISE
+  email: Applied Scientist II at Amazon 
   web: <a href="https://www.linkedin.com/in/thvasilo/">Webpage</a>
 
 - name: Vamis Xhagjik
@@ -212,6 +224,11 @@
 - name: Ying Liu
   photo: ying.jpg
   info: PhD in 2016
-  email: Senior ML Engineer at Norna
+  email: CTO at Norna
   web: <a href="https://www.linkedin.com/in/ying-liu-phd-2b360a31/">Webpage</a>
 
+- name: Zainab Abbas
+  photo: zainab.jpg
+  info: PhD in 2021
+  email: Software Engineer at Kry
+  web: <a href="https://www.linkedin.com/in/zainababbas1">Webpage</a>

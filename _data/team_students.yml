@@ -16,12 +16,6 @@
   email: amlk@kth.se
   web: <a href="https://www.linkedin.com/in/amirhosseinlayegh/">Webpage</a>
 
-- name: David Daharewa Gureya
-  photo: david.jpg
-  info: PhD Student
-  email: daharewa@kth.se
-  web: <a href="https://www.kth.se/profile/daharewa">Webpage</a>
-
 - name: Debaditya Roy
   photo: debaditya.jpg
   info: PhD Student
@@ -33,6 +27,12 @@
   info: PhD Student
   email: edwardt@kth.se
   web: <a href="https://www.kth.se/profile/edwardt">Webpage</a>
+
+- name: Fabian Schmidt
+  photo: fabian.jpg
+  info: PhD Student
+  email: fschm@kth.se
+  web: <a href="https://www.kth.se/profile/fschm">Webpage</a>
 
 - name: Filip Cornell
   photo: filip.jpg
@@ -82,11 +82,11 @@
   email: mmeldrum@kth.se
   web: <a href="https://maxmeldrum.com/">Webpage</a>
 
-- name: Sana Imtiaz
-  photo: sana.jpg
+- name: Sameen Mansha
+  photo: sameen.jpg
   info: PhD Student
-  email: sanaim@kth.se
-  web: <a href="https://www.kth.se/profile/sanaim">Webpage</a>
+  email: sameen@kth.se
+  web: <a href="https://www.kth.se/profile/sameen">Webpage</a>
 
 - name: Sara Karimi
   photo: sara.jpg
@@ -98,7 +98,7 @@
   photo: sina.jpg
   info: PhD Student
   email: sinash@kth.se
-  web: <a href="https://ssheikholeslami.github.io/">Webpage</a>
+  web: <a href="https://www.kth.se/profile/sinash/?l=en">Webpage</a>
 
 - name: Shirin Tahmasebi
   photo: shirin.jpg
@@ -136,8 +136,4 @@
   email: vangjush@kth.se
   web: <a href="https://www.kth.se/profile/vangjush">Webpage</a>
 
-- name: Zainab Abbas
-  photo: zainab.jpg
-  info: PhD Student
-  email: zainabab@kth.se
-  web: <a href="https://www.kth.se/profile/zainabab/">Webpage</a>
+

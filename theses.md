@@ -7,6 +7,8 @@ permalink: /theses/
 <center><img src="/images/thesis.jpg" width="1000" height="200" align="center"></center>
 
 <br>
+* 2021, David Daharewa Gureya, [Resource Allocation for Data-Intensive Services in the Cloud](/thesis/david_thesis.pdf)
+* 2021, Zainab Abbas, [Scalable Streaming Graph and Time Series Analysis Using Partitioning and Machine Learning](/thesis/zainab_thesis.pdf)
 * 2020, Mahmoud Ismail, [Distributed File System Metadata and its Applications](/thesis/mahmoud_thesis.pdf)
 * 2020, Jingna Zeng, [Augmenting Transactional Memory with the Future Abstraction](/thesis/jingna_thesis.pdf)
 * 2020, Lars Kroll, [Compile-time Safety and Runtime Performance in Programming Frameworks for Distributed Systems](/thesis/lars_thesis.pdf)
