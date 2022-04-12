@@ -7,42 +7,88 @@ permalink: /publication/
 
 <br>
 
+## 2022
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Sina Sheikholeslami, Tianze Wang, Vladimir Vlassov, Amir H. Payberah, Moritz Meister, Robin Andersson, and Jim Dowling, [Scalable Artificial Intelligence for Earth Observation Data Using Hopsworks](/papers/Hopsworks_Paper___Remote_Sensing.pdf), Journal of Remote Sensing,
+f), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+
+* Nuria Marzo I Grimalt, Serveh Shalmashi, Forough Yaghoubi, Leif Jonsson, and Amir H. Payberah, [BERTicsson: A Recommender System For Troubleshooting](/papers/berticsson.pdf), Workshop on Scientific Document Understanding (SDU@AAAI), co-located with AAAI
+
+* Massimo Perini, Giorgia Ramponi, Paris Carbone, and Vasia Kalavri, [Learning on Streaming Graphs with Experience Replay](/papers/online-gnn-SAC-preprint.pdf), ACM Symposium on Applied Computing (SAC)
+
+* Simone Zamboni, Zekarias Tilahun Kefato, Sarunas Girdzijauskas, Christoffer Norén, and Laura Dal Col, [Pedestrian Trajectory Prediction With Convolutional Neural Networks](/papers/1-s2.0-S0031320321004325-main.pdf), Elsevier Journals on Pattern Recognition
+
+* Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos, and Vladimir Vlassov, Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement, IFIP International Conference on Distributed Applications and Interoperable Systems (DAIS)
+
 ## 2021
 * Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Decentralized Word2Vec Using Gossip Learning](/papers/Alkathiri2021DecentralizedWord2Vec.pdf), Nordic Conference on Computational Linguistics (NoDaLiDa)
 
 * Albert Asratyan, Sina Sheikholeslami, and Vladimir Vlassov, [A Parallel Chain Mail Approach for Scalable Spatial Data Interpolation](/papers/chainmail_interpolation_bigdata2021.pdf), The IEEE International Conference on Big Data (BigData)
 
+* Andrei-Alin Corodescu, Nikolay Nikolov, Akif Quddus Khan, Ahmet Soylu, Mihhail Matskin, Amir H. Payberah and Dumitru Roman, [Locality-Aware Workflow Orchestration for Big Data](/papers/medes.pdf), ACM International Conference on Management of Digital EcoSystems (MEDES) [<font color="red"><b>Best Paper Award</b></font>]
+
+* Andrei-Alin Corodescu, Nikolay Nikolov, Akif Quddus Khan, Ahmet Soylu, Mihhail Matskin, Amir H. Payberah, and Dumitru Roman, [Big Data Workflows: Locality-aware Orchestration using Software Containers](/papers/sensors.pdf), MDPI Sensors
+
 * Astrid Armgarth, Sandra Pantzare, Patrik Arven, Roman Lassnig, Hiroaki Jinno, Erik O. Gabrielsson, Yonatan Kifle, Dennis Cherian, Theresia Arbring Sjöström, Gautier Berthou, Jim Dowling, Takao Someya, J. Jacob Wikner, Göran Gustafsson, Daniel T. Simon, and Magnus Berggren, [A Digital Nervous System Aiming Toward Personalized IoT Healthcare](/papers/s41598-021-87177-z.pdf), Scientific reports
 
 * Daniel Garcia Bernal, Lodovico Giaretta, Sarunas Girdzijauskas, and Magnus Sahlgren, [Federated Word2Vec: Leveraging Federated Learning to Encourage Collaborative Representation Learning](/papers/2105.00831.pdf), arXiv
 
-* David Gureya, João Barreto and Vladimir Vlassov, [Brief Announcement: BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+* David Gureya, Joao Barreto, and Vladimir Vlassov, [BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes](/papers/BALM_SPAA_2021_camera_ready.pdf), ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+
+* David Gureya, Joao Barreto, and Vladimir Vlassov, [Generalizing QoS-Aware Memory Bandwidth Allocation to Multi-Socket Cloud Servers](/papers/Generalizing_QoS-Aware_Memory_Bandwidth_Allocation_to_Multi-Socket_Cloud_Servers.pdf), IEEE International Conference on Cloud Computing (CLOUD)
+
+* Debaditya Roy, Sarunas Girdzijauskas, and Serghei Socolovschi, [Confidence-Calibrated Human Activity Recognition](/papers/sensors-21-06566-v3.pdf), Multidisciplinary Digital Publishing Institute (MDPI)
 
 * Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Andrew Fleming, Andreas Cziferszky, Markus Muerth, Florian Appel, Despina-Athanasia Pantazi, Dimitris Bilidas, George Papadakis, George Mandilaras, George Stamoulis, Manolis Koubarakis, Antonis Troumpoukis, and Stasinos Konstantopoulos, [The ExtremeEarth Software Architecture for Copernicus Earth Observation Data](/papers/Copernicus_Earth_Observation_Data.pdf), Big Data from Space (BiDS)
 
-* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Claudia Paris, Daniele Marinelli, Giulio Weikmann, Lorenzo Bruzzone, Salman Khaleghian, Thomas Kræmer, Torbjørn Eltoft, Andrea Marinoni, Despina-Athanasia Pantazi, George Stamoulis, Dimitris Bilidas, George Papadakis, George Mandilaras, Manolis Koubarakis, Antonis Troumpoukis, Stasinos Konstantopoulos, Markus Muerth, Florian Appel, Andrew Fleming, Andreas Cziferszky, [ExtremeEarth Meets Satellite Data from Space](papers/ExtremeEarth_Meets_Satellite_Data_From_Space_JSTARS_2021.pdf), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Vladimir Vlassov, Sina Sheikholeslami, Tianze Wang, Jim Dowling, Claudia Paris, Daniele Marinelli, Giulio Weikmann, Lorenzo Bruzzone, Salman Khaleghian, Thomas Kræmer, Torbjørn Eltoft, Andrea Marinoni, Despina-Athanasia Pantazi, George Stamoulis, Dimitris Bilidas, George Papadakis, George Mandilaras, Manolis Koubarakis, Antonis Troumpoukis, Stasinos Konstantopoulos, Markus Muerth, Florian Appel, Andrew Fleming, and Andreas Cziferszky, [ExtremeEarth Meets Satellite Data from Space](papers/ExtremeEarth_Meets_Satellite_Data_From_Space_JSTARS_2021.pdf), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
 * Jingna Zeng, Shady Issa, Paolo Romano, Luis Rodrigues, and Seif Haridi, [Investigating the Semantics of Futures in Transactional Memory Systems](/papers/sematicsoffutures-Jingna.pdf), ACM SIGPLAN Annual Symposium Principles and Practice of Parallel Programming (PPoPP)
 
+* Jonas Spenger, Paris Carbone, Philipp Haller, [Pods: Privacy Compliant Scalable Decentralized Data Services](/papers/spenger21-poly.pdf), International Workshop on Heterogeneous Data Management, Polystores, and Analytics for Healthcare, co-located with VLDB21
+
 * Kamal Hakimzadeh, Patrick K. Nicholson, Diego Lugones, and Amir H. Payberah, [IMITA: Imitation Learning for Generalizing Cloud Orchestration](/papers/imita.pdf), The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
 * Karl Fredrik Erliksson, Anders Arpteg, Mihhail Matskin and Amir H. Payberah, [Cross-Domain Transfer of Generative Explanations using Text-to-Text Models](/papers/explainability_transfer.pdf), International Conference on Natural Language and Information Systems (NLDB)
+
+* Lodovico Giaretta, Ahmed Lekssays, Barbara Carminati, Elena Ferrari, and Sarūnas Girdzijauskas, [LiMNet: Early-Stage Detection of IoT Botnets with Lightweight Memory Networks](/papers/FULLTEXT01.pdf), Springer European Symposium on Research in Computer Security
 
 * Lodovico Giaretta, Ioannis Savvidis, Thomas Marchioro, Sarunas Girdzijauskas, George Pallis, Marios D. Dikaiakos, and Evangelos Markatos, [PDS2: A User-Centered Decentralized Marketplace for Privacy Preserving Data Processing](/papers/Giaretta2021PDS2.pdf), International Workshop on Blockchain and Data Management (BlockDM2021), co-located with IDCE
 
 * Manolis Koubarakis, George Stamoulis, Dimitris Bilidas, Theofilos Ioannidis, Despina-Athanasia Pantazi, Vladimir Vlassov, Amir H. Payberah, Tianze Wang, Sina Sheikholeslami, Desta Haileselassie Hagos, Lorenzo Bruzzone, Claudia Paris, Giulio Weikmann, Daniele Marinelli, Torbjørn Eltoft, Andrea Marinoni, Thomas Kræmer, Salman Khaleghian, Antonis Troumpoukis, Stasinos Konstantopoulos, Vangelis Karkaletsis, Jim Dowling, Theofilos Kakantousis, Mihai Datcu, Corneliu Octavian Dumitru, Wei Yao, Florian Appel, Silke Migdall, Markus Muerth, Heike Bach, Nick Hughes, Alistair Everett, Ashild Kiærbech, Joakim Lillehaug Pedersen, David Arthurs, Andrew Fleming, and Andreas Cziferszky, [Artificial Intelligence and Big Data Technologies for Copernicus Data: the ExtremeEarth Project](/papers/bids.pdf), Big Data from Space (BiDS)
 
+* Marcus Hägglund, Francisco J. Peña, Sepideh Pashami, Ahmad Al-Shishtawy, and Amir H. Payberah, [CoCluBERT: Clustering Machine Learning Source Code](/papers/coclubert.pdf), The IEEE International Conference on Machine Learning and Applications (ICMLA)
+
 * Marina Angelovska, Sina Sheikholeslami, Bas Dunn, and Amir H. Payberah, [Siamese Neural Networks for Detecting Complementary Products](/papers/recommender_system.pdf), Student Research Workshop (EACL-SRW), co-located with EACL
 
-* Sana Imtiaz, Muhammad Arsalan, Vladimir Vlassov and Ramin Sadre, Synthetic and Private Smart Health Care Data Generation using GANs, Workshop on Security, Privacy, Trust, and Machine Learning for IoT (IoTSPT-ML 2021), co-located with ICCCN
+* Mihhail Matskin, Shirin Tahmasebi, Amirhossein Layegh, Amir H. Payberah, Aleena Thomas, Nikolay Nikolov, and Dumitru Roman, [A Survey of Big Data Pipeline Orchestration Tools from the Perspective of the DataCloud Project](/papers/damdid.pdf), International Conference on Data Analytics and Management in Data-Intensive Domains (DAMDID)
+
+* Nikolay Nikolov, Yared Dejene Dessalk, Akif Quddus Khan, Ahmet Soylu, Mihhail Matskin, Amir H. Payberah, and Dumitru Roman, [Conceptualization and Scalable Eexecution of Big Data Workflows Using Domain-Specific Languages and Software Containers](/papers/bigdata_workflow.pdf), Elsevier Internet of Things (IoT)]
+
+* Paris Carbone, Gyoergy Dan, James Gross, Bo Goeransson, and Marina Petrova, [NeuroRAN: rethinking virtualization for AI-native radio access networks in 6G](/papers/2104.08111.pdf), arXiv
+
+* Sana Imtiaz, Muhammad Arsalan, Vladimir Vlassov and Ramin Sadre, [Synthetic and Private Smart Health Care Data Generation using GANs](/papers/Synthetic_and_Private_Smart_Health_Care_Data_Generation_using_GANs.pdf), Workshop on Security, Privacy, Trust, and Machine Learning for IoT (IoTSPT-ML 2021), co-located with ICCCN
+
+* Sana Imtiaz, Philipp Matthies, Francisco Pinto, Máté Maros, Holger Wenz, Ramin Sadre and Vladimir Vlassov, [PyDPLib: Python Differential Privacy Library for Private Medical Data Analytics](/papers/PyDPLib_Python_Differential_Privacy_Library_for_Private_Medical_Data_Analytics.pdf), IEEE International Conference on Digital Health (ICDH)
+
+* Sana Imtiaz, Zannatun N. Tania, Hassan Nazeer Chaudhry, Muhammad Arsalan, Ramin Sadre, and Vladimir Vlassov, [Machine Learning with Reconfigurable Privacy on Resource-Limited Computing Devices](/papers/Machine_Learning_with_Reconfigurable_Privacy_on_Resource-Limited_Computing_Devices.pdf), IEEE International Conference on Security, Privacy, and Anonymity in Computation, Communication, and Storage (SpaCCS)
 
 * Sina Sheikholeslami, Moritz Meister, Tianze Wang, Amir H. Payberah, Vladimir Vlassov, and Jim Dowling, [AutoAblation: Automated Parallel Ablation Studies for Deep Learning](/papers/autoablation.pdf), Workshop on Machine Learning and Systems (EuroMLSys), co-located with EuroSys
 
+* Stefano Fedeli, Frida Schain, Sana Imtiaz, Zainab Abbas, and Vladimir Vlassov, [Privacy Preserving Survival Prediction](/papers/Privacy_Preserving_Survival_Prediction.pdf), IEEE International Conference on Big Data (BigData)
+
+* Stefanos Antaris, Dimitrios Rafailidis, and Sarunas Gidzijauskas, [A Deep Graph Reinforcement Learning Model for Improving User Eexperience in Live Video Streaming](/papers/2107.13619.pdf), IEEE International Conference on Big Data (BigData)
+
+* Stefanos Antaris, Dimitrios Rafailidis, and Sarunas Girdzijauskas, [Knowledge Distillation on Neural Networks for Eevolving Graphs](/papers/Antaris2021_Article_KnowledgeDistillationOnNeuralN.pdf), Springer Social Network Analysis and Mining (SNAM)
+
+* Stefanos Antaris, Dimitrios Rafailidis, and Sarunas Girdzijauskas, [Meta-Reinforcement Learning via Buffering Graph Signatures for Live Video Streaming Events](/papers/3487351.3490973.pdf), IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
+
+* Zekarias T Kefato, Sarunas Girdzijauskas, and Hannes Stärk, [Jointly Learnable Data Augmentations for Self-Supervised GNNs](/papers/2108.10420.pdf), arXive
+
 * Zekarias Kefato, Sarunas Girdzijauskas, Nasrullah Sheikh, and Alberto Montresor, [Dynamic Embeddings for Interaction Prediction](/papers/TheWebConf2021.pdf), The Web Conference (WWW)
->
-* Zekarias Kefato, and Sarunas Girdzijauskas, [Self-supervised Graph Neural Networks Without Explicit Negative Sampling](/papers/2103.14958.pdf), International Workshop on Self-Supervised Learning for the Web (SSL'21), co-located with WWW
+
+* Zekarias Kefato, and Sarunas Girdzijauskas, [SelfGNN: Self-supervised Graph Neural Networks Without Explicit Negative Sampling](/papers/2103.14958.pdf), International Workshop on Self-Supervised Learning for the Web (SSL'21), co-located with WWW
 
 <br>
 
