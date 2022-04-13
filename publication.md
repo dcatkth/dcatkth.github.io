@@ -44,6 +44,8 @@ f), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sen
 
 * Francesco V. Lorenzo, Sahar Asadi, Alice Karnsund, Tianze Wang, and Amir H. Payberah, [Generalized Reinforcement Learning for Gameplay](/papers/gameplay_rlg.pdf), Workshop on Reinforcement Learning in Games (AAAI-RLG), co-located with AAAI
 
+* Ian Marsh, Nicolae Paladi, Henrik Abrahamsson, Jonas Gustafsson, Johan Sjöberg, Andreas Johnsson, Pontus Sköldström, Jim Dowling, Paolo Monti, Melina Vruna, and Mohsen Amiribesheli, [Evolving 5G: ANIARA, An Edge-Cloud Perspective](/papers/Computing_Frontiers_2021_Abstract.pdf), ACM International Conference on Computing Frontiers (CF)
+
 * Jingna Zeng, Shady Issa, Paolo Romano, Luis Rodrigues, and Seif Haridi, [Investigating the Semantics of Futures in Transactional Memory Systems](/papers/sematicsoffutures-Jingna.pdf), ACM SIGPLAN Annual Symposium Principles and Practice of Parallel Programming (PPoPP)
 
 * Jonas Spenger, Paris Carbone, Philipp Haller, [Pods: Privacy Compliant Scalable Decentralized Data Services](/papers/spenger21-poly.pdf), International Workshop on Heterogeneous Data Management, Polystores, and Analytics for Healthcare, co-located with VLDB21
@@ -67,6 +69,8 @@ f), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sen
 * Nikolay Nikolov, Yared Dejene Dessalk, Akif Quddus Khan, Ahmet Soylu, Mihhail Matskin, Amir H. Payberah, and Dumitru Roman, [Conceptualization and Scalable Eexecution of Big Data Workflows Using Domain-Specific Languages and Software Containers](/papers/bigdata_workflow.pdf), Elsevier Internet of Things (IoT)]
 
 * Paris Carbone, Gyoergy Dan, James Gross, Bo Goeransson, and Marina Petrova, [NeuroRAN: rethinking virtualization for AI-native radio access networks in 6G](/papers/2104.08111.pdf), arXiv
+
+* Roxana Merino Martinez, Heimo Müller, Stefan Negru, Alex Ormenisan, Laila Sara Arroyo Mühr, Xinyue Zhang, Frederik Trier Møller, Mark S Clements, Zisis Kozlakidis, Ville N Pimenoff, Bartlomiej Wilkowski, Martin Boeckhout, Hanna Öhman, Steven Chong, Andreas Holzinger, Matti Lehtinen, Evert-Ben van Veen, Piotr Bała, Martin Widschwendter, Jim Dowling, Juha Törnroos, Michael P Snyder, and Joakim Dillner, [Human Exposome Assessment Platform](/papers/Human_exposome_assessment_platform.9_1.pdf), Environmental Epidemiology
 
 * Sana Imtiaz, Muhammad Arsalan, Vladimir Vlassov and Ramin Sadre, [Synthetic and Private Smart Health Care Data Generation using GANs](/papers/Synthetic_and_Private_Smart_Health_Care_Data_Generation_using_GANs.pdf), Workshop on Security, Privacy, Trust, and Machine Learning for IoT (IoTSPT-ML 2021), co-located with ICCCN
 
