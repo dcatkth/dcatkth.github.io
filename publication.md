@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 permalink: /publication/
 ---
 <center><img src="/images/publication.jpg" width="1000" height="200" align="center"></center>
@@ -8,8 +8,7 @@ permalink: /publication/
 <br>
 
 ## 2022
-* Desta Haileselassie Hagos, Theofilos Kakantousis, Sina Sheikholeslami, Tianze Wang, Vladimir Vlassov, Amir H. Payberah, Moritz Meister, Robin Andersson, and Jim Dowling, [Scalable Artificial Intelligence for Earth Observation Data Using Hopsworks](/papers/Hopsworks_Paper___Remote_Sensing.pdf), Journal of Remote Sensing,
-f), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+* Desta Haileselassie Hagos, Theofilos Kakantousis, Sina Sheikholeslami, Tianze Wang, Vladimir Vlassov, Amir H. Payberah, Moritz Meister, Robin Andersson, and Jim Dowling, [Scalable Artificial Intelligence for Earth Observation Data Using Hopsworks](/papers/hopsworks-remotesensing-mdpi.pdf), Remote Sensing
 
 * Nuria Marzo I Grimalt, Serveh Shalmashi, Forough Yaghoubi, Leif Jonsson, and Amir H. Payberah, [BERTicsson: A Recommender System For Troubleshooting](/papers/berticsson.pdf), Workshop on Scientific Document Understanding (SDU@AAAI), co-located with AAAI
 
